@@ -1953,7 +1953,7 @@ Edit,Editar,module,Magento_CatalogEvent
 "Entity type model '%1' is not found","Model do tipo de entidade '%1' não foi encontrado",module,Magento_CatalogImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","O modelo do tipo de entidade deve ser uma instância de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "There are no product types available for export.","Tipo de produto não disponível para exportar.",module,Magento_CatalogImportExport
-"Entity type model must be an instance of '%1'","O tipo de modelo da entidade deve ser uma instância de '%1'",module,Magento_CatalogImportExport
+"Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","O modelo do tipo de entidade deve ser uma instância de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "Category ""%1"" has not been created.","A categoria ""%1"" não foi criada.",module,Magento_CatalogImportExport
 "File directory '%1' is not readable.","Diretório do arquivo '%1' não é legível.",module,Magento_CatalogImportExport
 "File directory '%1' is not writable.","Diretório do arquivo '%1' não é gravável.",module,Magento_CatalogImportExport
@@ -2194,7 +2194,6 @@ All,Todos,module,Magento_CatalogSearch
 Yes,Sim,module,Magento_CatalogSearch
 No,Não,module,Magento_CatalogSearch
 Results,Resultados,module,Magento_CatalogSearch
-"Advanced Search Results","Resultados da pesquisa avançada",module,Magento_CatalogSearch
 Grid,Grade,module,Magento_CatalogSearch
 List,Lista,module,Magento_CatalogSearch
 "Search Weight","Peso da Pesquisa",module,Magento_CatalogSearch
@@ -2448,9 +2447,8 @@ Cancel,Cancelar,module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","Você já tem uma conta conosco. Efetue Login ou continue como convidado.",module,Magento_Checkout
 Login,Entrar,module,Magento_Checkout
 Close,Fechar,module,Magento_Checkout
-of,de,module,Magento_Checkout
-"Item in Cart","Item no Carrinho",module,Magento_Checkout
-"Items in Cart","Itens no Carrinho",module,Magento_Checkout
+item,item,module,Magento_Checkout
+items,itens,module,Magento_Checkout
 "Go to Checkout","Finalizar Compra",module,Magento_Checkout
 "Recently added item(s)","Itens recém adicionados",module,Magento_Checkout
 "View and edit cart","Visualizar e editar carrinho",module,Magento_Checkout
@@ -2476,7 +2474,8 @@ edit,editar,module,Magento_Checkout
 Next,Próximo,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Desculpe-nos, sem cotação disponível para este pedido agora",module,Magento_Checkout
 "Order Summary","Resumo do Pedido",module,Magento_Checkout
-"View and Edit Cart","Ver e editar carrinho",module,Magento_Checkout
+"Item in Cart","Item no Carrinho",module,Magento_Checkout
+"Items in Cart","Itens no Carrinho",module,Magento_Checkout
 "View Details","Visualizar Detalhes",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","O código postal fornecido parece ser inválido.",module,Magento_Checkout
 Example:,Exemplo:,module,Magento_Checkout
@@ -2489,16 +2488,13 @@ Shipping,Frete,module,Magento_Checkout
 "Enable Onepage Checkout","Ativar Pagamento em Uma Página",module,Magento_Checkout
 "Allow Guest Checkout","Permitir Compras por Visitantes",module,Magento_Checkout
 "Display Billing Address On","Exibir o endereço de facturação em",module,Magento_Checkout
-"Maximum Number of Items to Display in Order Summary","Número Máximo de Itens a Serem Exibidos no Resumo do Pedido",module,Magento_Checkout
 "Quote Lifetime (days)","Tempo de Vida de Cotação (dias)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","Depois de Adicionar um Produto, Reenvie para o Carrinho de Compras",module,Magento_Checkout
-"Number of Items to Display Pager","Número de itens para visualizar na página",module,Magento_Checkout
 "My Cart Link","Link para Meu Carrinho",module,Magento_Checkout
 "Display Cart Summary","Mostrar Resumo do Carrinho",module,Magento_Checkout
 "Shopping Cart Sidebar","Barra Lateral do Carrinho de Compras",module,Magento_Checkout
 "Display Shopping Cart Sidebar","Mostrar Barra Lateral do Carrinho de Compras",module,Magento_Checkout
-"Number of Items to Display Scrollbar","Número de itens para visualizar o barra de rolagem",module,Magento_Checkout
-"Maximum Number of Items to Display","Número máximo de items a mostrar",module,Magento_Checkout
+"Maximum Display Recently Added Item(s)","Máximo de Itens Mostrados nos Itens Recém Adicionados",module,Magento_Checkout
 "Payment Failed Emails","E-mails de Falha de Pagamento",module,Magento_Checkout
 "Payment Failed Email Sender","Remetente de E-mails de Falha de Pagamento",module,Magento_Checkout
 "Payment Failed Email Receiver","Destinatário de E-mail de Falha de Pagamento",module,Magento_Checkout
@@ -3608,9 +3604,6 @@ Strong,Forte,module,Magento_Customer
 "Maximum Login Failures to Lockout Account","Máximo de Tentativas de Login para Bloquear Conta",module,Magento_Customer
 "Use 0 to disable account locking.","Use 0 para desativar o bloqueio de conta.",module,Magento_Customer
 "Lockout Time (minutes)","Tempo de Bloqueio (minutos)",module,Magento_Customer
-"Account Information Options","Opções de Informações da Conta",module,Magento_Customer
-"Change Email Template","Modelo de mudança de email",module,Magento_Customer
-"Change Email and Password Template","Modelo de mudança de email e senha",module,Magento_Customer
 "Name and Address Options","Opções de Nome e Endereço",module,Magento_Customer
 "Number of Lines in a Street Address","Numero de Linhas em Endereço",module,Magento_Customer
 "Leave empty for default (2). Valid range: 1-4","Deixe vazio para padrão (2). Intervalo válido: 1-4",module,Magento_Customer
@@ -5686,10 +5679,12 @@ Reauthorize,Reautorizar,module,Magento_Integration
 "Integration '%1' has been sent for activation.","A Integração '%1' foi enviada para ativação.",module,Magento_Integration
 "A consumer with ID %1 does not exist","Não existe um consumidor com ID %1",module,Magento_Integration
 "You did not sign in correctly or your account is temporarily disabled.","Você não digitou os dados corretamente ou a sua conta está temporariamente desativada.",module,Magento_Integration
+"This user has no tokens.","Este cliente não possui tokens.",module,Magento_Integration
 "The tokens could not be revoked.","Os tokens não poderiam ser revogados.",module,Magento_Integration
 "Sorry, something went wrong granting permissions. You can find out more in the exceptions log.","Desculpa, algo deu errado, concedendo permissões. Você pode encontrar mais no log de exceções.",module,Magento_Integration
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Ocorreu algum erro ao eliminar funções e permissões. Pode descobrir mais detalhes no log de exceções.",module,Magento_Integration
 "%fieldName is a required field.","%fieldName é um campo obrigatório.",module,Magento_Integration
+"This customer has no tokens.","Este cliente não possui tokens.",module,Magento_Integration
 Inactive,Inativo,module,Magento_Integration
 Active,Ativo,module,Magento_Integration
 Reset,Reiniciar,module,Magento_Integration
@@ -7371,7 +7366,6 @@ Role,Função,module,Magento_ProductVideo
 "YouTube and Vimeo supported.","YouTube e Vimeo suportados.",module,Magento_ProductVideo
 "Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","É suportado o serviço Vimeo.<br />Para adicionar um vídeo do YouTube, por favor <a href=""%1""> Insira primeiro a chave de API do YouTube</a>.",module,Magento_ProductVideo
 "Protocol isn't allowed","Protocolo não é permitido",module,Magento_ProductVideo
-"Disallowed file type.","O tipo de arquivo não é permitido.",module,Magento_ProductVideo
 "Could not get preview image information. Please check your connection and try again.","Não foi possível obter informações de visualização da imagem. Por favor verifique sua conexão e tente novamente.",module,Magento_ProductVideo
 "Add Video","Adicionar vídeo",module,Magento_ProductVideo
 "Browse to find or drag image here","Navegue para encontrar ou arraste a imagem aqui",module,Magento_ProductVideo
@@ -7418,7 +7412,6 @@ Delete,Excluir,module,Magento_ProductVideo
 "Shipping address is not set","Endereço de envio não está definido",module,Magento_Quote
 "The requested Payment Method is not available.","O método de pagamento solicitado não está disponível.",module,Magento_Quote
 "We found an invalid request for adding product to quote.","Encontramos uma solicitação inválida para adicionar o produto para cotação.",module,Magento_Quote
-"Product that you are trying to add is not available.","O produto que você está tentando adicionar não está disponível.",module,Magento_Quote
 "This is the wrong quote item id to update configuration.","Este é o id de item de cotação errado para atualizar a configuração.",module,Magento_Quote
 "This shipping method is not available. To use this shipping method, please contact us.","Este método de envio não está disponível. Para usar este método de envio, entre em contato conosco.",module,Magento_Quote
 "The address model is not defined.","O modelo de endereço não está definido.",module,Magento_Quote
@@ -9040,6 +9033,7 @@ New,Novo,module,Magento_Sales
 "Captured amount of %1 online.","Capturado o valor de %1 online.",module,Magento_Sales
 "Authorized amount of %1","Valor autorizado de %1",module,Magento_Sales
 "Transaction ID: ""%1""","ID da transação: ""%1""",module,Magento_Sales
+"Requested product doesn't exist","O produto solicitado não existe",module,Magento_Sales
 "Something went wrong","Houve algum problema",module,Magento_Sales
 View,Visualizar,module,Magento_Sales
 "Group was removed","O grupo foi removido",module,Magento_Sales
@@ -9483,8 +9477,8 @@ Promotions,Promoções,module,Magento_SalesRule
 "New Rule","Nova Regra",module,Magento_SalesRule
 "New Cart Price Rule","Nova Regra de Preço do Carrinho",module,Magento_SalesRule
 "Rule is not defined","Regra não definida",module,Magento_SalesRule
-"%1 coupon(s) have been generated.","Foram gerados %1 cupons.",module,Magento_SalesRule
 "Invalid data provided","Os dados fornecidos são inválidos",module,Magento_SalesRule
+"%1 coupon(s) have been generated.","Foram gerados %1 cupons.",module,Magento_SalesRule
 "Something went wrong while generating coupons. Please review the log and try again.","Houve algum problema ao gerar os cupons. Por favor, analise o log e tente novamente.",module,Magento_SalesRule
 Catalog,Catálogo,module,Magento_SalesRule
 "The wrong rule is specified.","Foi especificada uma regra errada.",module,Magento_SalesRule
@@ -9515,6 +9509,7 @@ Auto,Automático,module,Magento_SalesRule
 Subtotal,Subtotal,module,Magento_SalesRule
 "Total Items Quantity","Quantidade Total de Itens",module,Magento_SalesRule
 "Total Weight","Peso total",module,Magento_SalesRule
+"Payment Method","Forma de pagamento",module,Magento_SalesRule
 "Shipping Method","Método de Entrega",module,Magento_SalesRule
 "Shipping Postcode","Código de Postal de Entrega",module,Magento_SalesRule
 "Shipping Region","Região de Entrega",module,Magento_SalesRule
@@ -9591,7 +9586,6 @@ Apply,Aplicar,module,Magento_SalesRule
 "Discard subsequent rules","Descartar as regras subseqüentes",module,Magento_SalesRule
 "Default Rule Label for All Store Views","Rótulo de Regra Padrão para Todas as Visões de Loja",module,Magento_SalesRule
 "Future Update in this time range already exists. Select a different range to add a new Future Update.",Todos.,module,Magento_SalesRuleStaging
-"An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2","Ocorreu um erro durante o processamento; A data de expiração do cupom com id %1 não foi atualizada. A mensagem de erro foi: %2",module,Magento_SalesRuleStaging
 ID,ID,module,Magento_SalesRuleStaging
 Rule,Regra,module,Magento_SalesRuleStaging
 "Coupon Code","Código do cupom",module,Magento_SalesRuleStaging
@@ -10214,10 +10208,6 @@ Save,Salvar,module,Magento_Staging
 "Date & Time","Data & Hora",module,Magento_Staging
 "This update not exists.","Esta atualização não existe.",module,Magento_Staging
 "Staging Dashboard","Painel de Controle",module,Magento_Staging
-"The Start Time of this Update cannot be changed. It's been already started.","The Start Time of this Update cannot be changed. It's been already started.",module,Magento_Staging
-"Future Update in this time range already exists. 
-                            Select a different range to add a new Future Update.","Atualização Futura já existe no intervalo de tempo escolhido. Selecione um intervalo diferente para adicionar uma nova Atualização Futura.",module,Magento_Staging
-"Cannot save Update.","Não é possível salvar a atualização.",module,Magento_Staging
 "Edit Existing Update","Editar atualização existente",module,Magento_Staging
 "Assign to Another Campaign","Mover para outra campanha",module,Magento_Staging
 "Save as a New Update","Salvar como uma Nova Atualização",module,Magento_Staging
@@ -10538,7 +10528,6 @@ Expand,Expandir,module,Magento_Support
 "(no data)","(sem Informação)",module,Magento_Support
 Top,Topo,module,Magento_Support
 "No data","Sem Informação",module,Magento_Support
-"Support Data Collector","Support Data Collector",module,Magento_Support
 "Support System Report","Support System Report",module,Magento_Support
 "System Report","System Report",module,Magento_Support
 Data,Dados,module,Magento_Support
@@ -10568,10 +10557,9 @@ Stores,Lojas,module,Magento_Support
 "Text Swatch","Amostra de Texto",module,Magento_Swatches
 "Manage Swatch (Values of Your Attribute)","Gerir Amostra (valores do seu atributo)",module,Magento_Swatches
 "Is Default","É o Padrão",module,Magento_Swatches
+Swatch,Amostra,module,Magento_Swatches
 "Add Swatch","Adicionar Amostra",module,Magento_Swatches
 "Sort Option","Opção de Ordenação",module,Magento_Swatches
-Swatch,Amostra,module,Magento_Swatches
-Description,Descrição,module,Magento_Swatches
 Delete,Excluir,module,Magento_Swatches
 "The value of Admin must be unique.","O valor de Admin deve ser unico.",module,Magento_Swatches
 "Choose a color","Escolha uma cor",module,Magento_Swatches
@@ -10589,7 +10577,6 @@ Options,Opções,module,Magento_Swatches
 "Create New Value","Criar Novo Valor",module,Magento_Swatches
 "These changes affect all related products.","Essas alterações afetam todos os produtos relacionados.",module,Magento_Swatches
 "Swatches per Product","Amostras por Produto",module,Magento_Swatches
-"Show Swatches in Product List","Show Swatches in Product List",module,Magento_Swatches
 "Swatch Image","Imagem de amostra",module,Magento_Swatches
 Image,Imagem,module,Magento_Swatches
 "Allowed file types: jpeg, gif, png.","Tipos de arquivo permitidos: jpeg, gif, png.",module,Magento_Swatches
@@ -10801,11 +10788,11 @@ Total,Total,module,Magento_Tax
 "Including Tax","Incluindo o imposto",module,Magento_Tax
 None,Nenhum,module,Magento_Tax
 "Including and Excluding Tax","Incluindo e excluindo impostos",module,Magento_Tax
-"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
+"Warning tax configuration can result in rounding errors.","Aviso de configuração de impostos pode resultar em erros de arredondamento.",module,Magento_Tax
 "Store(s) affected:","Loja(s) afetada(s):",module,Magento_Tax
 "Click on the link to <a href=""%1"">ignore this notification</a>","Clique no link para <a href=""%1"">ignorar esta notificação</a>",module,Magento_Tax
-"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.","Se o imposto for aplicado ""Antes do desconto"", o cálculo de desconto final pode não corresponder às expectativas dos clientes.",module,Magento_Tax
-"Your current tax configuration may result in rounding errors.","Your current tax configuration may result in rounding errors.",module,Magento_Tax
+"Warning tax discount configuration might result in different discounts
+                                than a customer might expect.","O aviso para a configuração de desconto de imposto pode resultar em descontos diferentes do que um cliente pode esperar.",module,Magento_Tax
 "Please see <a href=""%1"">documentation</a> for more details.","Please see <a href=""%1"">documentation</a> for more details.",module,Magento_Tax
 "Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.",module,Magento_Tax
 "Invalid type of tax class ""%1""","Invalid type of tax class ""%1""",module,Magento_Tax
@@ -10845,7 +10832,7 @@ Taxes,Impostos,module,Magento_Tax
 "This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.",module,Magento_Tax
 "Apply Customer Tax","Apply Customer Tax",module,Magento_Tax
 "Apply Discount On Prices","Apply Discount On Prices",module,Magento_Tax
-"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
+"Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","Aplicar desconto sobre o preço incluindo o imposto, é calculado com base no imposto da loja se ""Aplicar os impostos após o desconto"" estiver selecionado.",module,Magento_Tax
 "Apply Tax On","Aplicar o imposto sobre",module,Magento_Tax
 "Enable Cross Border Trade","Enable Cross Border Trade",module,Magento_Tax
 "When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.",module,Magento_Tax
@@ -11176,7 +11163,6 @@ Keyword,Palavra-chave,module,Magento_Ui
 "Please enter a number greater than 0 in this field.","Por favor, insira um número maior que 0 neste campo.",module,Magento_Ui
 "Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Por favor insira um comprimento CSS válido (Ex: 100px, 77pt, 20em, .5ex ou 50%).",module,Magento_Ui
 "Please enter a valid number in this field.","Por favor, insira um número válido neste campo.",module,Magento_Ui
-"Please enter a valid integer in this field.","Por favor insira um número inteiro válido neste campo.",module,Magento_Ui
 "The value is not within the specified range.","O valor não está dentro do intervalo especificado.",module,Magento_Ui
 "Please use letters only (a-z or A-Z) in this field.","Por favor use apenas letras (a-z ou A-Z) neste campo.",module,Magento_Ui
 "Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Por favor use apenas letras (a-z), números (0-9) ou underscore (_) neste campo, e o primeiro carácter deve ser uma letra.",module,Magento_Ui
