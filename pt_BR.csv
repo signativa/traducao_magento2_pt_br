@@ -3694,12 +3694,12 @@ Password:,Senha:,module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Se você não fez esta solicitação, você pode ignorar este e-mail e sua senha permanecerá a mesma.",module,Magento_Customer
 "Your %store_name password has been changed","Mudou sua senha %store_name",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: password.","Recebemos um pedido para alterar as informações seguintes, associadas à sua conta no %store_name: email, senha.",module,Magento_Customer
-"Checkout as a new customer","Faça o checkout com um novo cliente",module,Magento_Customer
+"Checkout out as a new customer","Efetue a compra como um novo cliente",module,Magento_Customer
 "Creating an account has many benefits:","Cria uma conta tem muitos benefícios:",module,Magento_Customer
 "See order and shipping status","Visualize seu pedido e o status da envio",module,Magento_Customer
 "Track order history","Acompanhe o histórico do pedido",module,Magento_Customer
 "Check out faster","Compra rápida",module,Magento_Customer
-"Checkout using your account","Faça o checkout usando sua conta",module,Magento_Customer
+"Checkout out using your account","Efetue a compra usando sua conta",module,Magento_Customer
 "Email Address","Endereço de e-mail",module,Magento_Customer
 "Are you sure you want to do this?","Você tem que deseja fazer isso?",module,Magento_Customer
 "Are you sure you want to delete this address?","Você tem certeza que deseja excluir este endereço?",module,Magento_Customer
@@ -3988,6 +3988,9 @@ Customer,Cliente,module,Magento_CustomerCustomAttributes
 "Please confirm site switching. All data that hasn't been saved will be lost.","Por favor, confirme a mudança de escopo. Todos os dados que ainda não foram salvos serão perdidos.",module,Magento_CustomerCustomAttributes
 "* Required Fields","* Campos Obrigatórios",module,Magento_CustomerCustomAttributes
 "Contact Information","Informações de Contato",module,Magento_CustomerCustomAttributes
+Company,Empresa,module,Magento_CustomerCustomAttributes
+"Phone Number","Número do Telefone",module,Magento_CustomerCustomAttributes
+Fax,Fax,module,Magento_CustomerCustomAttributes
 Address,Endereço,module,Magento_CustomerCustomAttributes
 "Street Address",Endereço,module,Magento_CustomerCustomAttributes
 "Street Address %1",Rua,module,Magento_CustomerCustomAttributes
@@ -4016,8 +4019,6 @@ Email,E-mail,module,Magento_CustomerCustomAttributes
 "Personal Information","Informações Pessoais",module,Magento_CustomerCustomAttributes
 "Sign Up for Newsletter","Assinar Newsletter",module,Magento_CustomerCustomAttributes
 "Address Information","Informações de Endereço",module,Magento_CustomerCustomAttributes
-Company,Empresa,module,Magento_CustomerCustomAttributes
-"Phone Number","Número do Telefone",module,Magento_CustomerCustomAttributes
 "Sign-in Information","Informações de acesso",module,Magento_CustomerCustomAttributes
 Password,Senha,module,Magento_CustomerCustomAttributes
 "Confirm Password","Confirmar Senha",module,Magento_CustomerCustomAttributes
@@ -8188,7 +8189,6 @@ Summary,Resumo,module,Magento_Review
 "Product Rating:","Classificação do Produto:",module,Magento_Review
 "Product Review (submitted on %1):","Avaliação do Produto (Enviada em %1):",module,Magento_Review
 "Back to Product Reviews","Voltar para Avaliações do Produto",module,Magento_Review
-"Please select one of each of the ratings above.","Por favor, selecione uma de cada das classificações acima.",module,Magento_Review
 "By Customers","Por clientes",module,Magento_Review
 "By Products","Por produtos",module,Magento_Review
 "Allow Guests to Write Reviews","Permitir Avaliações por Visitantes",module,Magento_Review
@@ -10214,7 +10214,6 @@ Shipments,Postagens,module,Magento_Shipping
 "The order no longer exists.","O pedido não existe mais.",module,Magento_Shipping
 "Cannot do shipment for the order separately from invoice.","Não é possível realizar o envio do pedido separadamente da fatura.",module,Magento_Shipping
 "Cannot do shipment for the order.","Não é possível fazer o envio do pedido.",module,Magento_Shipping
-"Tracking information must contain title, carrier code, and tracking number","A informação de rastreamento precisa conter um título, código da operadora e número de rastreamento",module,Magento_Shipping
 "There are no shipping labels related to selected shipments.","Não existem etiquetas de envio relacionadas aos envios selecionados.",module,Magento_Shipping
 "Page not found.","Página não encontrada.",module,Magento_Shipping
 "Tracking Information","Informações de rastreamento",module,Magento_Shipping
