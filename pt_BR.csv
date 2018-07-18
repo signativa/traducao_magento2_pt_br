@@ -12484,7 +12484,7 @@ Conditions,Condições,module,Magento_Widget
 "The requested cart item doesn't exist.","O item solicitado do carrinho não existe.",module,Magento_Wishlist
 "%1 has been moved to your wish list.","%1 foi movido para sua lista de desejos.",module,Magento_Wishlist
 "We can't move the item to the wish list.","Não podemos mover o item para lista de desejos.",module,Magento_Wishlist
-"You must login or register to add items to your wishlist.","You must login or register to add items to your wishlist.",module,Magento_Wishlist
+"You must login or register to add items to your wishlist.","Você deve logar ou registrar-se para adicionar itens à sua lista de desejos.",module,Magento_Wishlist
 "We can't delete the item from Wish List right now because of an error: %1.","Não podemos excluir o item da Lista de Desejos agora devido a um erro: %1.",module,Magento_Wishlist
 "We can't delete the item from the Wish List right now.","Não é possível excluir o item da lista de desejos agora.",module,Magento_Wishlist
 "Message length must not exceed %1 symbols","Tamanho da mensagem não deve exceder %1 caracteres",module,Magento_Wishlist
