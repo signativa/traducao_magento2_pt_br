@@ -2186,7 +2186,7 @@ Edit,Editar,module,Magento_CatalogEvent
 "Stock with id ""%1"" does not exist.","Estoque com id ""%1"" não existe.",module,Magento_CatalogInventory
 "Unable to remove Stock with id ""%1""","Não foi possível remover o estoque com o ID ""% 1""",module,Magento_CatalogInventory
 "Unable to save Stock Status","Não foi possível Salvar Status do Estoque",module,Magento_CatalogInventory
-"Unable to remove Stock Status for product %1","Não é possível remover Status de estoque para o produto% 1",module,Magento_CatalogInventory
+"Unable to remove Stock Status for product %1","Não é possível remover o estatus de estoque para o produto %1",module,Magento_CatalogInventory
 "Not all of your products are available in the requested quantity.","Nem todos os seus produtos estão disponíveis na quantidade solicitada.",module,Magento_CatalogInventory
 "Product with SKU ""%1"" does not exist","Não existe produto com SKU ""%1""",module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","O mínimo que você pode comprar é %1.",module,Magento_CatalogInventory
