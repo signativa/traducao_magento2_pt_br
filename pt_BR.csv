@@ -2081,21 +2081,21 @@ Enable,Habilitado,module,Magento_CatalogPermissions
 "Catalog Product Permissions","Permissões de Produto do Catálogo",module,Magento_CatalogPermissions
 "Indexed permissions for products","Permissões indexadas para produtos",module,Magento_CatalogPermissions
 "Delete Rule","Excluir a regra",module,Magento_CatalogRule
-"Are you sure you want to do this?","Você tem que deseja fazer isso?",module,Magento_CatalogRule
-Reset,Reiniciar,module,Magento_CatalogRule
-"Save and Apply","Salvar e Aplicar",module,Magento_CatalogRule
-"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_CatalogRule
+"Are you sure you want to do this?","Tem certeza que quer fazer isso?",module,Magento_CatalogRule
+Reset,Redefinir,module,Magento_CatalogRule
+"Save and Apply","Salvar e aplicar",module,Magento_CatalogRule
+"Save and Continue Edit","Salvar e continuar a editar",module,Magento_CatalogRule
 Save,Salvar,module,Magento_CatalogRule
-"Catalog Price Rule","Regra de Preço do Catálogo",module,Magento_CatalogRule
-"Add New Rule","Adicionar Nova Regra",module,Magento_CatalogRule
-"Apply Rules","Aplicar Regras",module,Magento_CatalogRule
+"Catalog Price Rule","Regra de preço de catálogo",module,Magento_CatalogRule
+"Add New Rule","Adicionar nova regra",module,Magento_CatalogRule
+"Apply Rules","Aplicar regras de",module,Magento_CatalogRule
 Conditions,Condições,module,Magento_CatalogRule
 "Conditions (don't add conditions if rule is applied to all products)","Condições (não adicionar condições se a regra é aplicada a todos os produtos)",module,Magento_CatalogRule
 ID,ID,module,Magento_CatalogRule
 Type,Tipo,module,Magento_CatalogRule
-"Attribute Set","Conjunto de Atributos",module,Magento_CatalogRule
-SKU,SKU,module,Magento_CatalogRule
-Product,Produto,module,Magento_CatalogRule
+"Attribute Set","Conjuntos de Atributo",module,Magento_CatalogRule
+SKU,"Código de Produto:",module,Magento_CatalogRule
+Product,Produto:,module,Magento_CatalogRule
 Promotions,Promoções,module,Magento_CatalogRule
 "We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Regras de atualização não são aplicadas. Por favor, clique em ""Aplicar Regras"" para atualizar o seu catálogo.",module,Magento_CatalogRule
 "We can't apply the rules.","Não é possível aplicar as regras.",module,Magento_CatalogRule
@@ -2103,12 +2103,12 @@ Promotions,Promoções,module,Magento_CatalogRule
 "We can't delete this rule right now. Please review the log and try again.","Não é possível excluir a regra agora. Por favor, revise o log e tente novamente.",module,Magento_CatalogRule
 "We can't find a rule to delete.","Não é possível encontrar uma regra para excluir.",module,Magento_CatalogRule
 "This rule no longer exists.","Esta regra não existe mais.",module,Magento_CatalogRule
-"New Catalog Price Rule","Nova Regra de Preço de Catálogo",module,Magento_CatalogRule
+"New Catalog Price Rule","Regra de preço de catálogo",module,Magento_CatalogRule
 "Edit Rule","Editar Regra",module,Magento_CatalogRule
 "New Rule","Nova Regra",module,Magento_CatalogRule
-Catalog,Catálogo,module,Magento_CatalogRule
-"You saved the rule.","Você gravou a regra.",module,Magento_CatalogRule
-"Something went wrong while saving the rule data. Please review the error log.","Problema ao tentar salvar os dados da regra. Por favor, revise o log de erros.",module,Magento_CatalogRule
+Catalog,Catalogo,module,Magento_CatalogRule
+"You saved the rule.","Você salvou a regra.",module,Magento_CatalogRule
+"Something went wrong while saving the rule data. Please review the error log.","Algo deu errado ao salvar os dados da regra. Por favor, revise o log de erro.",module,Magento_CatalogRule
 Promo,Promoção,module,Magento_CatalogRule
 "Unable to save rule %1","Não é possível salvar o %1 regra",module,Magento_CatalogRule
 "Rule with specified ID ""%1"" not found.","A regra com o ID especificado ""%1"" não foi encontrada.",module,Magento_CatalogRule
@@ -2117,38 +2117,38 @@ Promo,Promoção,module,Magento_CatalogRule
 "We can't rebuild the index for an undefined product.","Não é possível recriar o índice para um produto indefinido.",module,Magento_CatalogRule
 "Catalog rule indexing failed. See details in exception log.","Regra de indexação do catálogo falhou. Veja detalhes no log de exceções.",module,Magento_CatalogRule
 "Percentage discount should be between 0 and 100.","Percentual de desconto deve ser entre 0 e 100.",module,Magento_CatalogRule
-"Discount value should be 0 or greater.","Valor de desconto deve ser maior do que 0.",module,Magento_CatalogRule
+"Discount value should be 0 or greater.","Desconto de valor deve ser 0 ou maior.",module,Magento_CatalogRule
 "Unknown action.","Ação desconhecida.",module,Magento_CatalogRule
-"Update the Product","Atualizar produto",module,Magento_CatalogRule
+"Update the Product","Atualização do produto",module,Magento_CatalogRule
 "Rule price","Regra de Preço",module,Magento_CatalogRule
-"To Fixed Value","Para Valor Fixo",module,Magento_CatalogRule
-"To Percentage","Para Percentagem",module,Magento_CatalogRule
-"By Fixed value","Por Valor Fixo",module,Magento_CatalogRule
-"By Percentage","Por Percentagem",module,Magento_CatalogRule
+"To Fixed Value","Por valor fixo",module,Magento_CatalogRule
+"To Percentage","A percentagem",module,Magento_CatalogRule
+"By Fixed value","Por valor fixo",module,Magento_CatalogRule
+"By Percentage","Por porcentagem",module,Magento_CatalogRule
 "Update product's %1 %2: %3","Atualizar produto(s) %1 %2: %3",module,Magento_CatalogRule
 "Apply as percentage of original","Aplicado como porcentagem do original",module,Magento_CatalogRule
-"Apply as fixed amount","Aplicado como montante fixo",module,Magento_CatalogRule
+"Apply as fixed amount","Aplicam-se como montante fixo",module,Magento_CatalogRule
 "Adjust final price to this percentage","Ajustar o preço final para esta percentagem",module,Magento_CatalogRule
 "Adjust final price to discount value","Ajustar o preço final para o valor de desconto",module,Magento_CatalogRule
-"Conditions Combination","Combinação de Condições",module,Magento_CatalogRule
-"Product Attribute","Atributo do Produto",module,Magento_CatalogRule
+"Conditions Combination","Combinação de condições",module,Magento_CatalogRule
+"Product Attribute","Atributos de Produto",module,Magento_CatalogRule
 "Updated rules applied.","Regras atualizadas aplicadas.",module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","Você desabilitou %1 Regras de Preço do Catálogo com base no atributo ""%2"".",module,Magento_CatalogRule
-"Catalog Rule Product","Produto de Regra de Catálogo",module,Magento_CatalogRule
+"Catalog Rule Product","Catálogo de produtos",module,Magento_CatalogRule
 "Indexed rule/product association","Regra indexada/associação de produto",module,Magento_CatalogRule
 "Catalog Product Rule","Regra de Produto de Catálogo",module,Magento_CatalogRule
 "Indexed product/rule association","Produto indexado/associação de regra",module,Magento_CatalogRule
-Rule,Regra,module,Magento_CatalogRule
-Start,Ínicio,module,Magento_CatalogRule
-End,Fim,module,Magento_CatalogRule
-Status,Status,module,Magento_CatalogRule
+Rule,regra,module,Magento_CatalogRule
+Start,Começar,module,Magento_CatalogRule
+End,Final:,module,Magento_CatalogRule
+Status,Situação,module,Magento_CatalogRule
 Active,Ativo,module,Magento_CatalogRule
 Inactive,Inativo,module,Magento_CatalogRule
 "Web Site",Website,module,Magento_CatalogRule
 Back,Voltar,module,Magento_CatalogRule
 "Rule Information","Informações da Regra",module,Magento_CatalogRule
-Actions,Ações,module,Magento_CatalogRule
-Yes,Sim,module,Magento_CatalogRule
+Actions,Ações.,module,Magento_CatalogRule
+Yes,Sim!,module,Magento_CatalogRule
 No,Não,module,Magento_CatalogRule
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Atualização Futura já existe no limite de tempo escolhido. Selecione um limite diferente para adicionar uma nova Atualização Futura.",module,Magento_CatalogRuleStaging
 "Future Update End Time cannot be equal or earlier than Start Time.","O horário final da atualização futura não deve ser igual ou anterior a hora de inicio.",module,Magento_CatalogRuleStaging
@@ -7269,7 +7269,7 @@ User,Usuário,module,Magento_Paypal
 "Website Payments Pro Hosted Solution and Express Checkout","Solução de Pagamentos de Site da Web Pro Hospedado e Finalizar Compra Expresso",module,Magento_Paypal
 "Basic Settings - PayPal Website Payments Pro Hosted Solution","Definições Básicas - Solução de Pagamentos PayPal Pro Hosted",module,Magento_Paypal
 "Payflow Pro","Payflow Pro",module,Magento_Paypal
-"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)",module,Magento_Paypal
+"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Ligue a sua conta de comerciante com um gateway completamente personalizável que permita aos clientes pagar sem sair do seu site.",module,Magento_Paypal
 "Vault Enabled","Vault habilitado",module,Magento_Paypal
 "Basic Settings - PayPal Payflow Pro","Configurações Básicas - PayPal Payflow Pro",module,Magento_Paypal
 "Vault Title","Título Vault",module,Magento_Paypal
@@ -8415,7 +8415,7 @@ Number,Número,module,Magento_Rma
 "Shipping Method","Método de Entrega",module,Magento_Rma
 "Create Shipping Label","Criar etiquetas de envio",module,Magento_Rma
 "Enabled when authorized items require a new shipment.","Enabled when authorized items require a new shipment.",module,Magento_Rma
-"Order &amp; Account Information","Order &amp; Account Information",module,Magento_Rma
+"Order &amp; Account Information","Pedido e Informações de Conta",module,Magento_Rma
 "Return Totals","Total reembolsado",module,Magento_Rma
 "Return Confirmation","Confirmação de devolução",module,Magento_Rma
 "Email Returns Confirmation","E-mail de confirmação de devolução",module,Magento_Rma
@@ -8476,11 +8476,11 @@ Answers,Respostas,module,Magento_Rma
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone",module,Magento_Rma
 "Your Return #%increment_id - %status_label","Your Return #%increment_id - %status_label",module,Magento_Rma
 "%store_name: New Return # %increment_id","%store_name: Nova Devolução # %increment_id",module,Magento_Rma
-"You can check the status of your return <a href=""%form_url"">using your order number</a>.","You can check the status of your return <a href=""%form_url"">using your order number</a>.",module,Magento_Rma
-"If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.",module,Magento_Rma
+"You can check the status of your return <a href=""%form_url"">using your order number</a>.","Você pode verificar o status de seu retorno <a href=""%form_url"">usando seu número de ordem</a>.",module,Magento_Rma
+"If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","Se você tem perguntas sobre seu pedido, você pode nos enviar em <a href=""mailto:%support_email""> %store_email</a>.",module,Magento_Rma
 "%store_name: Return # %increment_id update","%store_name: Devolução # %increment_id atualizada",module,Magento_Rma
-"%store_name : New Return #%increment_id","%store_name : New Return #%increment_id",module,Magento_Rma
-"We received your return request. You will be notified when your request is reviewed.","We received your return request. You will be notified when your request is reviewed.",module,Magento_Rma
+"%store_name : New Return #%increment_id","%store_name : Nova Devolução # %increment_id",module,Magento_Rma
+"We received your return request. You will be notified when your request is reviewed.","Recebemos o seu pedido de retorno. Você será notificado quando seu pedido é revisado.",module,Magento_Rma
 "Placed on %created_at","Efetuada em %created_at",module,Magento_Rma
 "Click Details for more required fields.","Clique em Detalhes para mais campos obrigatórios.",module,Magento_Rma
 Ok,Ok,module,Magento_Rma
@@ -8502,10 +8502,10 @@ Enabled,Habilitado,module,Magento_Rma
 "RMA Email Template for Guest","Modelo de E-mail RMA para convidados",module,Magento_Rma
 "Send RMA Email Copy To","Enviar E-mail RMA com cópia",module,Magento_Rma
 Comma-separated,"Separados por vírgula",module,Magento_Rma
-"Send RMA Email Copy Method","Send RMA Email Copy Method",module,Magento_Rma
+"Send RMA Email Copy Method","Enviar E-mail RMA com cópia",module,Magento_Rma
 "RMA Authorization","Autorização de RMA",module,Magento_Rma
-"RMA Authorization Email Sender","RMA Authorization Email Sender",module,Magento_Rma
-"RMA Authorization Email Template","RMA Authorization Email Template",module,Magento_Rma
+"RMA Authorization Email Sender","Remetente de E-mail de autorização de RMA",module,Magento_Rma
+"RMA Authorization Email Template","Modelo de E-mail de autorização de RMA",module,Magento_Rma
 "RMA Authorization Email Template for Guest","RMA Authorization Email Template for Guest",module,Magento_Rma
 "Send RMA Authorization Email Copy To","Send RMA Authorization Email Copy To",module,Magento_Rma
 "Send RMA Authorization Email Copy Method","Send RMA Authorization Email Copy Method",module,Magento_Rma
@@ -9023,7 +9023,7 @@ State/Province,Estado/Província,module,Magento_Sales
 """Shipment Document Validation Error(s):\n"" .","""Erro(s) de validação de documento de faturamento: \n"".",module,Magento_Sales
 "Could not save a shipment, see error log for details","Não foi possível salvar um envio, veja mais detalhes no log",module,Magento_Sales
 "VAT Request Identifier","Identificador de solicitação do VAT",module,Magento_Sales
-"VAT Request Date","VAT Request Date",module,Magento_Sales
+"VAT Request Date","Data do pedido de IVA",module,Magento_Sales
 "Pending Payment","Pagamento pendente",module,Magento_Sales
 Processing,Processando,module,Magento_Sales
 "On Hold","Em espera",module,Magento_Sales
@@ -9245,7 +9245,7 @@ General,Geral,module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Escolher se o IP do cliente é exibido em Pedidos, Faturas, Envios e memos de créditos.",module,Magento_Sales
 "Checkout Totals Sort Order","Totais de checkout ordenados por pedido",module,Magento_Sales
 "Allow Reorder","Permitir Recompra",module,Magento_Sales
-"Invoice and Packing Slip Design","Invoice and Packing Slip Design",module,Magento_Sales
+"Invoice and Packing Slip Design","Factura e embalagem Slip Design",module,Magento_Sales
 "Logo for PDF Print-outs (200x50)","Logotipo para impressões PDF (200x50)",module,Magento_Sales
 "Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Seu logotipo padrão será usado em documentos PDF e HTML.<br />(jpeg, tiff, png) Se a sua imagem PDF estiver distorcida, tente usar um tamanho de imagem maior.",module,Magento_Sales
 "Logo for HTML Print View","Logotipo para impressão de visualização HTML",module,Magento_Sales
@@ -9289,28 +9289,28 @@ Comma-separated,"Separados por vírgula",module,Magento_Sales
 "Send Invoice Email Copy To","Enviar cópia de fatura para",module,Magento_Sales
 "Send Invoice Email Copy Method","Método de cópia para envio de fatura de e-mail",module,Magento_Sales
 "Invoice Comment Email Sender","Comentário de origem para fatura",module,Magento_Sales
-"Invoice Comment Email Template","Invoice Comment Email Template",module,Magento_Sales
-"Invoice Comment Email Template for Guest","Invoice Comment Email Template for Guest",module,Magento_Sales
-"Send Invoice Comment Email Copy To","Send Invoice Comment Email Copy To",module,Magento_Sales
-"Send Invoice Comments Email Copy Method","Send Invoice Comments Email Copy Method",module,Magento_Sales
+"Invoice Comment Email Template","Modelo do E-mail de Fatura",module,Magento_Sales
+"Invoice Comment Email Template for Guest","Modelo de E-mail do Comentário de Pedido para Convidado",module,Magento_Sales
+"Send Invoice Comment Email Copy To","Enviar cópia de fatura para",module,Magento_Sales
+"Send Invoice Comments Email Copy Method","Enviar a factura comentários E-mail cópia método",module,Magento_Sales
 Shipment,Envio,module,Magento_Sales
-"Shipment Email Sender","Shipment Email Sender",module,Magento_Sales
-"Shipment Email Template","Shipment Email Template",module,Magento_Sales
-"Shipment Email Template for Guest","Shipment Email Template for Guest",module,Magento_Sales
-"Send Shipment Email Copy To","Send Shipment Email Copy To",module,Magento_Sales
-"Send Shipment Email Copy Method","Send Shipment Email Copy Method",module,Magento_Sales
+"Shipment Email Sender","Envio E-mail remetente",module,Magento_Sales
+"Shipment Email Template","Selecionar Template do Email",module,Magento_Sales
+"Shipment Email Template for Guest","Modelo de E-mail RMA para convidados",module,Magento_Sales
+"Send Shipment Email Copy To","Enviar cópia de E-mail de carregamento para",module,Magento_Sales
+"Send Shipment Email Copy Method","Enviar E-mail RMA com cópia",module,Magento_Sales
 "Shipment Comments","Comentários da Entrega",module,Magento_Sales
-"Shipment Comment Email Sender","Shipment Comment Email Sender",module,Magento_Sales
-"Shipment Comment Email Template","Shipment Comment Email Template",module,Magento_Sales
+"Shipment Comment Email Sender","Remetente do Comentário do E-mail de Pedido",module,Magento_Sales
+"Shipment Comment Email Template","Selecionar Template do Email",module,Magento_Sales
 "Shipment Comment Email Template for Guest","Modelo de e-mail de comentário de entrega para convidado",module,Magento_Sales
 "Send Shipment Comment Email Copy To","Envie Cópia de E-mail de Comentário de Entrega Para",module,Magento_Sales
-"Send Shipment Comments Email Copy Method","Send Shipment Comments Email Copy Method",module,Magento_Sales
+"Send Shipment Comments Email Copy Method","Enviar a factura comentários E-mail cópia método",module,Magento_Sales
 "Credit Memo Email Sender","Remetente de Email de nota de crédito",module,Magento_Sales
 "Credit Memo Email Template","Modelo de E-mail de nota de crédito",module,Magento_Sales
 "Credit Memo Email Template for Guest","Modelo de E-mail de nota de crédito para convidado",module,Magento_Sales
-"Send Credit Memo Email Copy To","Send Credit Memo Email Copy To",module,Magento_Sales
-"Send Credit Memo Email Copy Method","Send Credit Memo Email Copy Method",module,Magento_Sales
-"Credit Memo Comment Email Sender","Credit Memo Comment Email Sender",module,Magento_Sales
+"Send Credit Memo Email Copy To","Enviar cópia de E-mail de memorando de crédito para",module,Magento_Sales
+"Send Credit Memo Email Copy Method","Enviar E-mail falha de método de cópia",module,Magento_Sales
+"Credit Memo Comment Email Sender","Remetente do Comentário do E-mail de Pedido",module,Magento_Sales
 "Credit Memo Comment Email Template","Modelo de E-mail de comentário de nota de crédito",module,Magento_Sales
 "Credit Memo Comment Email Template for Guest","Modelo de E-mail do Comentário de Reembolso para Convidado",module,Magento_Sales
 "Send Credit Memo Comment Email Copy To","Envie Cópia de E-mail do Comentário de Reembolso Para",module,Magento_Sales
@@ -9326,7 +9326,7 @@ Template,Template,module,Magento_Sales
 Name,Nome,module,Magento_Sales
 Phone,Telefone,module,Magento_Sales
 "ZIP/Post Code","Código postal / CEP",module,Magento_Sales
-"Signed-up Point","Signed-up Point",module,Magento_Sales
+"Signed-up Point","Assinado-up ponto",module,Magento_Sales
 Website,Website,module,Magento_Sales
 order-header,order-header,module,Magento_Sales
 "Bill-to Name","Nome de Cobrança",module,Magento_Sales
@@ -10245,9 +10245,9 @@ Upcoming,Próximos,module,Magento_Staging
 "Future Update End Time cannot be equal or earlier than Start Time.","O horário final da Atualização Futura não deve ser igual ou anterior a Hora de Inicio.",module,Magento_Staging
 "Future Update End Time cannot be earlier than current time.","Hora de início de atualização futura não pode ser anterior à hora atual.",module,Magento_Staging
 "Update with id ""%1"" does not exist.","Atualização com id ""%1"" não existe.",module,Magento_Staging
-"Active update can not be deleted","Active update can not be deleted",module,Magento_Staging
+"Active update can not be deleted","Atualização de ativa não pode ser eliminada",module,Magento_Staging
 "Start time could not be changed while update active","Hora de início não pode ser alterada enquanto a atualização está ativa",module,Magento_Staging
-"Unable to save Future Update.","Unable to save Future Update.",module,Magento_Staging
+"Unable to save Future Update.","Não é possível salvar o Atualização Futura.",module,Magento_Staging
 Test,Teste,module,Magento_Staging
 Error,Erro,module,Magento_Staging
 "Test Exception","Test Exception",module,Magento_Staging
