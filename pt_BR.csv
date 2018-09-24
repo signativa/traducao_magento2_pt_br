@@ -864,12 +864,12 @@ Error,Erro,module,Magento_Banner
 "Banner Block Template","Template de Bloco para Banner",module,Magento_Banner
 "Banner Inline Template","Template Inline para Banner",module,Magento_Banner
 Country,País,module,Magento_Braintree
-"Allowed Credit Card Types","Permitido tipos de Cartão de Crédito",module,Magento_Braintree
+"Allowed Credit Card Types","Tipos de Cartão de Crédito Permitidos",module,Magento_Braintree
 "Add Rule","Adicionar Regra",module,Magento_Braintree
 Month,Mês,module,Magento_Braintree
 Year,Ano,module,Magento_Braintree
 "Stored Card","Cartão armazenado",module,Magento_Braintree
-"Credit Card Type","Tipo do Cartão de Crédito",module,Magento_Braintree
+"Credit Card Type","Tipos do Cartão de Crédito",module,Magento_Braintree
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_Braintree
 "Credit card successfully added","O Cartão de crédito foi adicionado com sucesso",module,Magento_Braintree
 "Something went wrong while saving the card.","Algo deu errado ao salvar o cartão.",module,Magento_Braintree
@@ -4470,7 +4470,7 @@ End,Fim,module,Magento_GiftCardAccount
 "There is no order with provided id","Não há nenhum pedido com o id fornecido",module,Magento_GiftMessage
 "Gift Messages is not applicable for empty order","Mensagens em .Gifs não é aplicável para a ordem vazia",module,Magento_GiftMessage
 "Could not add gift message to order's item: \"%1\"","Não foi possível adicionar mensagem de gifs ao item selecionado: \"%1\"",module,Magento_GiftMessage
-"Unknown entity type","Tipo de entidade desconhecido",module,Magento_GiftMessage
+"Unknown entity type","Tipo de entidade desconhecida",module,Magento_GiftMessage
 From,De,module,Magento_GiftMessage
 To,Até,module,Magento_GiftMessage
 Message,Mensagem,module,Magento_GiftMessage
