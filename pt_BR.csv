@@ -907,7 +907,7 @@ Error,Erro,module,Magento_Banner
 "Banner Block Template","Template de Bloco para Banner",module,Magento_Banner
 "Banner Inline Template","Template Inline para Banner",module,Magento_Banner
 Country,País,module,Magento_Braintree
-"Allowed Credit Card Types","Permitido tipos de Cartão de Crédito",module,Magento_Braintree
+"Allowed Credit Card Types","Tipos de Cartão de Crédito Permitidos",module,Magento_Braintree
 "Add Rule","Adicionar Regra",module,Magento_Braintree
 "Braintree Settlement Report","Relatório de Vendas Braintree",module,Magento_Braintree
 "Sorry, but something went wrong","Desculpe, mas algo deu errado",module,Magento_Braintree
@@ -942,7 +942,7 @@ Unrecognized,"Não reconhecida",module,Magento_Braintree
 "Settlement confirmed","Liquidação confirmada",module,Magento_Braintree
 Sale,Venda,module,Magento_Braintree
 Credit,Crédito,module,Magento_Braintree
-"Credit Card Type","Tipo do Cartão de Crédito",module,Magento_Braintree
+"Credit Card Type","Tipos do Cartão de Crédito",module,Magento_Braintree
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_Braintree
 "Please, enter valid Credit Card Number","Por favor insira um Número de Cartão de Crédito válido",module,Magento_Braintree
 "Expiration Date","Data de Validade",module,Magento_Braintree
@@ -4978,7 +4978,7 @@ End,Fim,module,Magento_GiftCardAccount
 "There is no order with provided id","Não há nenhum pedido com o id fornecido",module,Magento_GiftMessage
 "Gift Messages are not applicable for empty order","As Mensagens de cartão presente não se aplicam a uma encomenda vazia",module,Magento_GiftMessage
 "Could not add gift message to order's item: ""%1""","Não foi possível adicionar uma mensagem de presente ao item do pedido: ""%1""",module,Magento_GiftMessage
-"Unknown entity type","Tipo de entidade desconhecido",module,Magento_GiftMessage
+"Unknown entity type","Tipo de entidade desconhecida",module,Magento_GiftMessage
 "Test label","Etiqueta de teste",module,Magento_GiftMessage
 "Use Config Settings","Usar Configurações padrão",module,Magento_GiftMessage
 From,De,module,Magento_GiftMessage
