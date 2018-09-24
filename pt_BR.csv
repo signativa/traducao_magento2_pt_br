@@ -1092,12 +1092,12 @@ Position,Posição,module,Magento_Banner
 "Banner Block Template","Template de Bloco para Banner",module,Magento_Banner
 "Banner Inline Template","Template Inline para Banner",module,Magento_Banner
 Country,País,module,Magento_Braintree
-"Allowed Credit Card Types","Permitido tipos de Cartão de Crédito",module,Magento_Braintree
+"Allowed Credit Card Types","Tipos de Cartão de Crédito Permitidos",module,Magento_Braintree
 "Add Rule","Adicionar Regra",module,Magento_Braintree
 "Edit Credit Card","Editar Cartão de Crédito",module,Magento_Braintree
 "Add Credit Card","Adicionar Cartão de Crédito",module,Magento_Braintree
 "Stored Card","Cartão armazenado",module,Magento_Braintree
-"Credit Card Type","Tipo do Cartão de Crédito",module,Magento_Braintree
+"Credit Card Type","Tipos do Cartão de Crédito",module,Magento_Braintree
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_Braintree
 "Selected payment type is not allowed for billing country.","A forma de pagamento selecionada não é aceita para o país indicado na cobrança.",module,Magento_Braintree
 "Credit card type is not allowed for this payment method.","Tipo de cartão de crédito não é permitido para esta forma de pagamento.",module,Magento_Braintree
@@ -4510,7 +4510,7 @@ To,Até,module,Magento_GiftMessage
 OK,OK,module,Magento_GiftMessage
 "Gift Message","Mensagem do presente",module,Magento_GiftMessage
 Message,Mensagem,module,Magento_GiftMessage
-"Unknown entity type","Tipo de entidade desconhecido",module,Magento_GiftMessage
+"Unknown entity type","Tipo de entidade desconhecida",module,Magento_GiftMessage
 "Gift Options","Opções de presente",module,Magento_GiftMessage
 "Do you have any gift items in your order?","Você tem algum item de presente em seu pedido?",module,Magento_GiftMessage
 "Add gift options","Adicionar opções de presente",module,Magento_GiftMessage
