@@ -4829,7 +4829,7 @@ Preview,Pré-visualização,module,Magento_GiftWrapping
 %1,%1,module,Magento_GiftWrapping
 "Please select","Selecione por favor",module,Magento_GiftWrapping
 "You deleted a total of %1 records.","Você excluiu um total de %1 registros.",module,Magento_GiftWrapping
-"Gift Wrapping","Embrulho para presente",module,Magento_GiftWrapping
+"Gift Wrapping","Embrulho para Presente",module,Magento_GiftWrapping
 "Add Gift Wrapping","Adicionar embalagem de presente",module,Magento_GiftWrapping
 "Are you sure you want to delete this gift wrapping?","Deseja realmente remover este pacote de presente?",module,Magento_GiftWrapping
 "Edit Gift Wrapping ""%1""","Editar Embalagem para Presente ""%1""",module,Magento_GiftWrapping
@@ -7472,31 +7472,31 @@ RMA,RMA,module,Magento_Rma
 "We cannot add a message.","Não é possível adicionar mensagem.",module,Magento_Rma
 "We cannot initialize an RMA to delete a tracking number.","Nos não podemos inicializar um RMA para excluir um número de rastreamento.",module,Magento_Rma
 "We cannot delete the tracking number.","Não foi possível excluir o número de rastreio.",module,Magento_Rma
-"We cannot load track with retrieving identifier.","We cannot load track with retrieving identifier.",module,Magento_Rma
+"We cannot load track with retrieving identifier.","Não é possível carregar a faixa com o identificador de recuperação.",module,Magento_Rma
 "Manage RMA Item Attributes","Gerenciar atributos do item RMA",module,Magento_Rma
 "Returns Attributes","Retornar Atributos",module,Magento_Rma
 "New Return Attribute","Novo Retorno de Atributo",module,Magento_Rma
 "Edit Return Item Attribute","Editar atributo do item da devolução",module,Magento_Rma
 "An attribute with the same code already exists.","Existe um atributo com o mesmo código.",module,Magento_Rma
 "You saved the RMA item attribute.","Você salvou o atributo do item RMA.",module,Magento_Rma
-"Something went wrong saving the RMA item attribute.","Something went wrong saving the RMA item attribute.",module,Magento_Rma
+"Something went wrong saving the RMA item attribute.","Aconteceu algo errado ao salvar o atributo do item RMA.",module,Magento_Rma
 "You deleted the RMA attribute.","Você excluiu o atributo RMA.",module,Magento_Rma
-"Something went wrong deleting the RMA item attribute.","Something went wrong deleting the RMA item attribute.",module,Magento_Rma
+"Something went wrong deleting the RMA item attribute.","Aconteceu algo errado ao remover o atributo do item RMA.",module,Magento_Rma
 "Return #%1","Devolução #%1",module,Magento_Rma
 "You submitted Return #%1.","Retorno que enviou #%1.",module,Magento_Rma
-"We cannot create a new return transaction. Please try again later.","We cannot create a new return transaction. Please try again later.",module,Magento_Rma
+"We cannot create a new return transaction. Please try again later.","Não podemos criar uma transação de retorno agora. Por favor, tente novamente mais tarde.",module,Magento_Rma
 "Create New Return","Criar nova Devolução",module,Magento_Rma
-"We cannot create a return transaction for order #%1.","We cannot create a return transaction for order #%1.",module,Magento_Rma
+"We cannot create a return transaction for order #%1.","Não podemos criar uma transação de troca do pedido #%1.",module,Magento_Rma
 "Shipping Labels are not allowed.","Etiquetas de envio não são permitidas.",module,Magento_Rma
 "Please select a valid carrier.","Por favor selecione um transportador válido.",module,Magento_Rma
 "Please enter a valid tracking number.","Por favor digite um número de rastreamento válido.",module,Magento_Rma
-"We cannot add a label.","We cannot add a label.",module,Magento_Rma
-"The wrong RMA was selected.","The wrong RMA was selected.",module,Magento_Rma
-"We cannot delete the label.","We cannot delete the label.",module,Magento_Rma
+"We cannot add a label.","Não podemos adicionar um etiqueta.",module,Magento_Rma
+"The wrong RMA was selected.","O RMA errado foi selecionado.",module,Magento_Rma
+"We cannot delete the label.","Não foi possível excluir a etiqueta.",module,Magento_Rma
 "My Returns","Minha devoluções",module,Magento_Rma
 "Cannot add message.","Não é possível adicionar mensagem.",module,Magento_Rma
 "Tracking Information","Informações de rastreamento",module,Magento_Rma
-"This is not a valid order.","This is not a valid order.",module,Magento_Rma
+"This is not a valid order.","Isso não é um pedido válido.",module,Magento_Rma
 "Contact Email Address","E-mail de contato",module,Magento_Rma
 "Only one RMA is available for printing","Apenas um RMA está disponível para impressão",module,Magento_Rma
 "Return #","Devolução #",module,Magento_Rma
@@ -7511,7 +7511,7 @@ RMA,RMA,module,Magento_Rma
 "Approved Qty","Qtd Aprovada",module,Magento_Rma
 "%1 for item %2 cannot be empty.","%1 para o item %2 não pode ser vazio.",module,Magento_Rma
 "You cannot return %1.","Você não pode devolver %1.",module,Magento_Rma
-"Quantity of %1 is greater than you can return.","Quantity of %1 is greater than you can return.",module,Magento_Rma
+"Quantity of %1 is greater than you can return.","A quantidade %1 é maior do que você pode devolver.",module,Magento_Rma
 "You entered an invalid type: ""%1"".","Você digitou um tipo inválido: ""%1"".",module,Magento_Rma
 "You entered an invalid email address: ""%1"".","Você digitou um endereço de e-mail inválido: ""%1"".",module,Magento_Rma
 "You entered an invalid hostname: ""%1""","Você digitou um nome de host inválido: ""%1""",module,Magento_Rma
@@ -7525,8 +7525,8 @@ Rejected,Rejeitado,module,Magento_Rma
 Denied,Negado,module,Magento_Rma
 "Processed and Closed","Processada e fechada",module,Magento_Rma
 "This is the wrong RMA item status.","Este é o status do item errado de RMA.",module,Magento_Rma
-"We placed your Return request.","We placed your Return request.",module,Magento_Rma
-"We have authorized your Return request.","We have authorized your Return request.",module,Magento_Rma
+"We placed your Return request.","A solicitação de devolução foi feita.",module,Magento_Rma
+"We have authorized your Return request.","Nós autorizamos seu pedido de devolução.",module,Magento_Rma
 "We partially authorized your Return request.","Solicitação de devolução parcialmente autorizada.",module,Magento_Rma
 "We received your Return request.","Nós recebemos o seu pedido de devolução.",module,Magento_Rma
 "We partially received your Return request.","Nós recebemos o seu pedido de devolução.",module,Magento_Rma
@@ -7543,7 +7543,7 @@ Denied,Negado,module,Magento_Rma
 #,#,module,Magento_Rma
 "RMA History","Histórico RMA",module,Magento_Rma
 "Comment Text","Texto do comentário",module,Magento_Rma
-"Visible on Frontend","Visible on Frontend",module,Magento_Rma
+"Visible on Frontend","Visível na interface frontal",module,Magento_Rma
 "Customer Service","Atendimento ao cliente",module,Magento_Rma
 "Not Notified","Não notificado",module,Magento_Rma
 "Return Address","Endereço de devolução",module,Magento_Rma
@@ -7551,7 +7551,7 @@ Denied,Negado,module,Magento_Rma
 "Delete Line","Excluir linha",module,Magento_Rma
 "Customs Value","Valor personalizado",module,Magento_Rma
 "Qty Ordered","Qtd Comprada",module,Magento_Rma
-"Click to change shipping method.","Click to change shipping method.",module,Magento_Rma
+"Click to change shipping method.","Clique para modificar o método de envio.",module,Magento_Rma
 "Create Shipping Label","Criar etiquetas de envio",module,Magento_Rma
 "No authorized items or allowed shipping methods","Nenhum item autorizado ou métodos de envio permitidos",module,Magento_Rma
 "Add Package","Adicionar Embalagem",module,Magento_Rma
@@ -7560,13 +7560,13 @@ Size,Tamanho,module,Magento_Rma
 Girth,Circunferência,module,Magento_Rma
 "Total Weight","Peso total",module,Magento_Rma
 Length,Tamanho,module,Magento_Rma
-"Signature Confirmation","Signature Confirmation",module,Magento_Rma
+"Signature Confirmation","Confirmação de assinatura",module,Magento_Rma
 in,polegadas,module,Magento_Rma
 lb,lb,module,Magento_Rma
 kg,kg,module,Magento_Rma
 "Delete Package","Excluir o pacote",module,Magento_Rma
 Explanation,Explicação,module,Magento_Rma
-"Add Selected Product(s) to Package","Add Selected Product(s) to Package",module,Magento_Rma
+"Add Selected Product(s) to Package","Adicione o(s) produto(s) ao pacote",module,Magento_Rma
 "Please select products.","Por favor, selecione os produtos.",module,Magento_Rma
 Carrier,Transportadora,module,Magento_Rma
 Number,Número,module,Magento_Rma
