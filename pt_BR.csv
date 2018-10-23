@@ -279,7 +279,7 @@ Error,Erro,module,Magento_AsynchronousOperations
 "Order saving error: %1","Erro na gravação do pedido: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Por favor, escolha um método de pagamento.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","Não foi possível processar seu pedido agora. Por favor, tente novamente mais tarde.",module,Magento_Authorizenet
-"An error occurred on the server. Please try to place the order again.","Ocorreu um erro no servidor. Por favor, tente fazer o pedido novamente.",module,Magento_Authorizenet
+"An error occurred on the server. Please try to place the order again.","Ocorreu um erro no servidor. Por favor, tente enviar o pedido novamente.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Cartão de crédito: xxxx-%1",module,Magento_Authorizenet
 "amount %1","montante %1",module,Magento_Authorizenet
 failed.,falhou.,module,Magento_Authorizenet
@@ -5516,7 +5516,7 @@ Date,Data,module,Magento_GiftRegistry
 Template,Template,module,Magento_GiftRegistry
 "Default Template","Modelo padrão",module,Magento_GiftRegistry
 Listed,Listado,module,Magento_GiftRegistry
-"Gift Wrapping","Embrulho para presente",module,Magento_GiftWrapping
+"Gift Wrapping","Embrulho para Presente",module,Magento_GiftWrapping
 "Add Gift Wrapping","Adicionar embalagem de presente",module,Magento_GiftWrapping
 "Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_GiftWrapping
 "Are you sure you want to delete this gift wrapping?","Deseja realmente remover este pacote de presente?",module,Magento_GiftWrapping
@@ -8570,7 +8570,7 @@ Denied,Negado,module,Magento_Rma
 Closed,Fechado,module,Magento_Rma
 "Processed and Closed","Processada e fechada",module,Magento_Rma
 "This is the wrong RMA item status.","Este é o status do item errado de RMA.",module,Magento_Rma
-"We placed your Return request.","We placed your Return request.",module,Magento_Rma
+"We placed your Return request.","A solicitação de devolução foi feita.",module,Magento_Rma
 "We authorized your Return request.","Nós autorizamos seu pedido de devolução.",module,Magento_Rma
 "We partially authorized your Return request.","Solicitação de devolução parcialmente autorizada.",module,Magento_Rma
 "We received your Return request.","Nós recebemos o seu pedido de devolução.",module,Magento_Rma
