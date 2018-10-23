@@ -5314,7 +5314,7 @@ Date,Data,module,Magento_GiftRegistry
 Template,Template,module,Magento_GiftRegistry
 "Default Template","Modelo padrão",module,Magento_GiftRegistry
 Listed,Listado,module,Magento_GiftRegistry
-"Gift Wrapping","Embrulho para presente",module,Magento_GiftWrapping
+"Gift Wrapping","Embrulho para Presente",module,Magento_GiftWrapping
 "Add Gift Wrapping","Adicionar embalagem de presente",module,Magento_GiftWrapping
 "Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_GiftWrapping
 "Are you sure you want to delete this gift wrapping?","Deseja realmente remover este pacote de presente?",module,Magento_GiftWrapping
