@@ -242,7 +242,7 @@ Edit,Editar,module,Magento_AdvancedSearch
 "Order saving error: %1","Erro na gravação do pedido: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Por favor, escolha um método de pagamento.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","Não foi possível processar seu pedido agora. Por favor, tente novamente mais tarde.",module,Magento_Authorizenet
-"An error occurred on the server. Please try to place the order again.","Ocorreu um erro no servidor. Por favor, tente fazer o pedido novamente.",module,Magento_Authorizenet
+"An error occurred on the server. Please try to place the order again.","Ocorreu um erro no servidor. Por favor, tente enviar o pedido novamente.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Cartão de crédito: xxxx-%1",module,Magento_Authorizenet
 "amount %1","montante %1",module,Magento_Authorizenet
 failed.,falhou.,module,Magento_Authorizenet
@@ -540,7 +540,7 @@ password,senha,module,Magento_Backend
 "Reload Data","Recarregar dados",module,Magento_Backend
 "Browse Files...","Procurar Arquivos...",module,Magento_Backend
 Magento,Magento,module,Magento_Backend
-"Copyright &copy; %1 Magento, Inc. All rights reserved.","Copyright &copy; %1 Magento. Todos os direitos reservados.",module,Magento_Backend
+"Copyright &copy; %1 Magento, Inc. All rights reserved.","Copyright &copy; %1 Magento, Inc. Todos os direitos reservados.",module,Magento_Backend
 "ver. %1","versão %1",module,Magento_Backend
 "Magento Admin Panel","Painel de Admin do Magento",module,Magento_Backend
 "Account Setting","Configurações da Conta",module,Magento_Backend
@@ -1731,7 +1731,7 @@ Submit,Enviar,module,Magento_Catalog
 "We don't recognize or support this file extension type.","Nós não reconhecemos ou suportamos este tipo de extensão de arquivo.",module,Magento_Catalog
 "Configure Product","Configurar produto",module,Magento_Catalog
 OK,OK,module,Magento_Catalog
-"This value does not follow the specified format (for example, 200x300).","Esse valor não segue o formato especificado (por exemplo, 200 x 300).",module,Magento_Catalog
+"This value does not follow the specified format (for example, 200x300).","Esse valor não segue o formato especificado (por exemplo, 200x300).",module,Magento_Catalog
 "Select type of option.","Selecione o tipo de opção.",module,Magento_Catalog
 "Please add rows to option.","Por favor, adicione linhas a opção.",module,Magento_Catalog
 "Please select items.","Por favor, selecione itens.",module,Magento_Catalog
@@ -2451,7 +2451,7 @@ item,item,module,Magento_Checkout
 items,itens,module,Magento_Checkout
 "Go to Checkout","Finalizar Compra",module,Magento_Checkout
 "Recently added item(s)","Itens recém adicionados",module,Magento_Checkout
-"View and edit cart","Visualizar e editar carrinho",module,Magento_Checkout
+"View and edit cart","Ver e editar carrinho",module,Magento_Checkout
 "See Details","Veja os Detalhes",module,Magento_Checkout
 "Options Details","Detalhes das Opções",module,Magento_Checkout
 Remove,Remover,module,Magento_Checkout
@@ -2754,9 +2754,9 @@ Layout,Layout,module,Magento_CmsStaging
 "Layout Update XML","Atualização do Layout XML",module,Magento_CmsStaging
 "Deleting the update will remove the page from this campaign and all scheduled changes will be lost.","Excluindo a atualização irá remover a página desta campanha e todas as alterações programadas serão perdidas.",module,Magento_CmsStaging
 "CMS Pages","Páginas CMS",module,Magento_CmsStaging
-"Remove CMS Page from Campaign","Remover a página CMS da Campanha",module,Magento_CmsStaging
+"Remove CMS Page from Campaign","Remover o bloco CMS da Campanha",module,Magento_CmsStaging
 "CMS Blocks","Blocos CMS",module,Magento_CmsStaging
-"Remove CMS Block from Campaign","Remover o block CMS da Campanha",module,Magento_CmsStaging
+"Remove CMS Block from Campaign","Remover a página CMS da Campanha",module,Magento_CmsStaging
 ID,ID,module,Magento_CmsStaging
 Title,Título,module,Magento_CmsStaging
 Status,Status,module,Magento_CmsStaging
@@ -5328,7 +5328,7 @@ Date,Data,module,Magento_GiftRegistry
 Template,Template,module,Magento_GiftRegistry
 "Default Template","Modelo padrão",module,Magento_GiftRegistry
 Listed,Listado,module,Magento_GiftRegistry
-"Gift Wrapping","Embrulho para presente",module,Magento_GiftWrapping
+"Gift Wrapping","Embrulho para Presente",module,Magento_GiftWrapping
 "Add Gift Wrapping","Adicionar embalagem de presente",module,Magento_GiftWrapping
 "Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_GiftWrapping
 "Are you sure you want to delete this gift wrapping?","Deseja realmente remover este pacote de presente?",module,Magento_GiftWrapping
