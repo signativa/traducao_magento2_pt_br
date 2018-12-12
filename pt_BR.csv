@@ -6664,7 +6664,7 @@ Conditions,Condições,module,Magento_Reminder
 "Rule Name","Nome da regra",module,Magento_Reminder
 Inactive,Inativo,module,Magento_Reminder
 "From Date","A partir de",module,Magento_Reminder
-"To Date",Até,module,Magento_Reminder
+"To Date","Até a data",module,Magento_Reminder
 "Edit Rule","Editar Regra",module,Magento_Reminder
 Daily,Diário,module,Magento_Reminder
 "Assigned to Website","Atribuído ao Website",module,Magento_Reminder
@@ -6692,13 +6692,13 @@ Coupon,Cupom,module,Magento_Reminder
 "Emails Sent","E-mails Enviados",module,Magento_Reminder
 "Emails Failed","Emails Falhados",module,Magento_Reminder
 "Last Sent","Enviado Pela Última Vez",module,Magento_Reminder
-"Reminder emails may promote a shopping cart price rule with or without a coupon. If a shopping cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","Reminder emails may promote a shopping cart price rule with or without a coupon. If a shopping cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.",module,Magento_Reminder
+"Reminder emails may promote a shopping cart price rule with or without a coupon. If a shopping cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","Os e-mails de lembrete podem promover uma regra de preço do carrinho de compras com ou sem um cupom. Se uma regra de preço do carrinho de compras definir um cupom gerado automaticamente, essa regra de lembrete gerará um código de cupom aleatório para cada cliente.",module,Magento_Reminder
 "Shopping Cart Price Rule","Regra de Preço do Carrinho de Compras",module,Magento_Reminder
 "Promotion rule this reminder will advertise.","Regra de promoção que este lembrete irá anunciar.",module,Magento_Reminder
 "Repeat Schedule","Repetir a programação",module,Magento_Reminder
-"Enter the number of days before email reminder rule is triggered if conditions match (comma separate, e.g., ""7, 14"").","Enter the number of days before email reminder rule is triggered if conditions match (comma separate, e.g., ""7, 14"").",module,Magento_Reminder
+"Enter the number of days before email reminder rule is triggered if conditions match (comma separate, e.g., ""7, 14"").","Insira o número de dias antes que a regra de lembrete de e-mail seja acionada se as condições corresponderem (separada por vírgula, por exemplo, ""7, 14"").",module,Magento_Reminder
 "Select Rule...","Selecione uma Regra...",module,Magento_Reminder
-"Only customers who registered on a store view will receive emails related to that store view.","Only customers who registered on a store view will receive emails related to that store view.",module,Magento_Reminder
+"Only customers who registered on a store view will receive emails related to that store view.","Somente os clientes que se registraram em uma visualização de loja receberão e-mails relacionados a essa visualização da loja.",module,Magento_Reminder
 "Default Titles and Description","Títulos e descrição padrão",module,Magento_Reminder
 "You can find and edit rule label and descriptions, per store view, in email templates.","Pode encontrar e editar a etiqueta da regra e as descrições, por frente de loja, nos templates de email.",module,Magento_Reminder
 "Rule Title for All Store Views","Título da Regra para Todas as Frentes de Loja",module,Magento_Reminder
@@ -6753,7 +6753,7 @@ quantity,quantidade,module,Magento_Reminder
 "The item was added to shopping cart %1, store view %2.","O item foi adicionado ao carrinho de compras %1, vista de loja %2.",module,Magento_Reminder
 from,de,module,Magento_Reminder
 "not from","não é de",module,Magento_Reminder
-"If an item is %1 in the shopping cart with %2 of these conditions match:","If an item is %1 in the shopping cart with %2 of these conditions match:",module,Magento_Reminder
+"If an item is %1 in the shopping cart with %2 of these conditions match:","Se um item for %1 no carrinho de compras, com %2 dessas condições corresponder:",module,Magento_Reminder
 "Items Quantity","Quantidade de Itens",module,Magento_Reminder
 "Total shopping cart items quantity %1 %2:","Quantidade total de itens do carrinho de compras %1 %2:",module,Magento_Reminder
 "Virtual Only","Apenas Virtual",module,Magento_Reminder
@@ -6767,7 +6767,7 @@ Sharing,Compartilhando,module,Magento_Reminder
 is,é,module,Magento_Reminder
 "is not","não é",module,Magento_Reminder
 "The item was added to wish list %1, store view %2.","O item foi adicionado à lista de desejos %1, vista de loja %2.",module,Magento_Reminder
-"If an item is %1 in the wish list with %2 of these conditions match:","If an item is %1 in the wish list with %2 of these conditions match:",module,Magento_Reminder
+"If an item is %1 in the wish list with %2 of these conditions match:","Se um item for %1 na lista de desejos, com %2 dessas condições corresponder:",module,Magento_Reminder
 "Condition type is unexpected","O tipo de condição não é o esperado",module,Magento_Reminder
 "Please specify a valid number of minute.","Por favor especifique um número válido de minutos.",module,Magento_Reminder
 "Unable to save Cron expression","Não é possível salvar a expressão Cron",module,Magento_Reminder
@@ -6858,7 +6858,7 @@ Added,Adicionado,module,Magento_Reports
 Period,Período,module,Magento_Reports
 "Empty Rows","Linhas vazias",module,Magento_Reports
 "Invalid date specified","Data inválida especificada",module,Magento_Reports
-"We couldn't find records for this period.","We couldn't find records for this period.",module,Magento_Reports
+"We couldn't find records for this period.","Não foram encontrados registos para este período.",module,Magento_Reports
 "Show Reviews","Permitir Comentários",module,Magento_Reports
 "Products Report","Relatório de Produtos",module,Magento_Reports
 Downloads,Downloads,module,Magento_Reports
@@ -6910,12 +6910,12 @@ Rate,Avaliação,module,Magento_Reports
 "Products in carts","Produtos no Carrinho",module,Magento_Reports
 Carts,Carrinhos,module,Magento_Reports
 "Wish Lists","Listas de Desejos",module,Magento_Reports
-"Wishlist Purchase","Wishlist Purchase",module,Magento_Reports
+"Wishlist Purchase","Comprar da lista de desejos",module,Magento_Reports
 "Wish List vs. Regular Order","Ordem da lista de desejos vs Ordem Regular",module,Magento_Reports
 "Times Deleted","Históricos Deletados",module,Magento_Reports
 "Index type is not valid","Tipo de índice não é válido",module,Magento_Reports
-"Search Terms Report","Search Terms Report",module,Magento_Reports
-"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, ' 'click <a href=""%3"">here</a>.","Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, ' 'click <a href=""%3"">here</a>.",module,Magento_Reports
+"Search Terms Report","Relatório de termos de pesquisa",module,Magento_Reports
+"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, ' 'click <a href=""%3"">here</a>.","Última atualização: %1. Para atualizar as <a href=""%2"">estatísticas</a> do último dia, clique<a href=""%3""> aqui </a>.",module,Magento_Reports
 "New Accounts Report","Novo Relatório de Contas",module,Magento_Reports
 "Order Count Report","Relatório de contagem de pedidos",module,Magento_Reports
 "Customers by Number of Orders","Clientes por Número de Pedidos",module,Magento_Reports
@@ -6946,7 +6946,7 @@ Statistics,Estatísticas,module,Magento_Reports
 "No report code is specified.","Nenhum código de relatório é especificado.",module,Magento_Reports
 "Recent statistics have been updated.","Estatísticas recentes foram atualizadas.",module,Magento_Reports
 "We can't refresh recent statistics.","Não foi possível recarregar as estatísticas recentes.",module,Magento_Reports
-"We updated lifetime statistics.","We updated lifetime statistics.",module,Magento_Reports
+"We updated lifetime statistics.","Atualizamos as estatísticas total.",module,Magento_Reports
 "We can't refresh lifetime statistics.","Não foi possível atualizar a estatística do ciclo de vida.",module,Magento_Reports
 "The product type filter specified is incorrect.","O filtro de Tipo de produto especificado está incorreto.",module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rates","Relatório de impostos de pedido agrupado por Taxas de imposto",module,Magento_Reports
@@ -6955,12 +6955,12 @@ Statistics,Estatísticas,module,Magento_Reports
 "Most Viewed Products Report","Relatório de Produtos Mais Visualizados",module,Magento_Reports
 "Show By","Mostrar por",module,Magento_Reports
 "Select Date","Selecionar data",module,Magento_Reports
-"Customers that have wish list: %1","Customers that have wish list: %1",module,Magento_Reports
-"Number of wish lists: %1","Number of wish lists: %1",module,Magento_Reports
-"Number of items bought from a wish list: %1","Number of items bought from a wish list: %1",module,Magento_Reports
-"Number of times wish lists have been shared (emailed): %1","Number of times wish lists have been shared (emailed): %1",module,Magento_Reports
-"Number of wish list referrals: %1","Number of wish list referrals: %1",module,Magento_Reports
-"Number of wish list conversions: %1","Number of wish list conversions: %1",module,Magento_Reports
+"Customers that have wish list: %1","Os clientes que têm lista de desejos: %1",module,Magento_Reports
+"Number of wish lists: %1","Número de lista de desejos %1",module,Magento_Reports
+"Number of items bought from a wish list: %1","Número de itens comprados de uma lista de desejos: %1",module,Magento_Reports
+"Number of times wish lists have been shared (emailed): %1","Número de vezes em listas de desejos foram compartilhadas (por e-mail): %1",module,Magento_Reports
+"Number of wish list referrals: %1","Número de referências de lista de desejos: %1",module,Magento_Reports
+"Number of wish list conversions: %1","Número de conversões de lista de desejos: %1",module,Magento_Reports
 "Show Report For:","Mostre relatório para:",module,Magento_Reports
 "Recently Viewed","Visualizados recentemente",module,Magento_Reports
 "Recently Compared Products","Produtos comparados recentemente",module,Magento_Reports
@@ -6987,15 +6987,15 @@ Statistics,Estatísticas,module,Magento_Reports
 "Compared Product Names Only Template","Compared Product Names Only Template",module,Magento_Reports
 "Compared Product Images Only Template","Compared Product Images Only Template",module,Magento_Reports
 Hits,Acessos,module,Magento_Reports
-"We couldn't find records for this period.","We couldn't find records for this period.",module,Magento_Reports
+"We couldn't find records for this period.","Não foram encontrados registos para este período.",module,Magento_Reports
 "Stock Quantity","Quantidade da estoque",module,Magento_Reports
 "Ordered Quantity","Quantidade Encomendada",module,Magento_Reports
-"This report uses timezone configuration data. Be sure to refresh lifetime statistics any time you change store timezone.","This report uses timezone configuration data. Be sure to refresh lifetime statistics any time you change store timezone.",module,Magento_Reports
+"This report uses timezone configuration data. Be sure to refresh lifetime statistics any time you change store timezone.","Este relatório utiliza dados de configuração de fuso horário. Não se esqueça de atualizar o tempo de vida estatísticas toda vez que você alterar o fuso horário de armazenar.",module,Magento_Reports
 "Average (Approved)","Média (Aprovada)",module,Magento_Reports
 "Last Review","Última revisão",module,Magento_Reports
 "Order Created Date","Data de Criação do Pedido",module,Magento_Reports
 "Order Updated Date","Data de Atualização de Pedido",module,Magento_Reports
-"The Order Updated Date report is displayed in real-time, and does not need to be refreshed.","O relatório de Atualização de Pedido é criado em tempo real e não precisa de ser atualizado.",module,Magento_Reports
+"The Order Updated Date report is displayed in real-time, and does not need to be refreshed.","O relatório de Atualização de Pedido é criado em tempo real e não precisa ser atualizado.",module,Magento_Reports
 "Last Invoice Created Date","Data de Criação da Última Fatura",module,Magento_Reports
 "Last Credit Memo Created Date","Data de Criação da Última Nota de Crédito",module,Magento_Reports
 "First Invoice Created Date","Data de Criação da Primeira Fatura",module,Magento_Reports
