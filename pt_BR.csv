@@ -432,7 +432,7 @@ Done,Concluído,module,Magento_B2b
 "Please Select",Selecione...,module,Magento_B2b
 "%s of %s selected","%s de %s selecionados",module,Magento_B2b
 "B2B Features","Recursos B2B",module,Magento_B2b
-"Invalid Form Key. Please refresh the page.","Chave de forma inválida. Por favor, atualize a página.",module,Magento_Backend
+"Invalid Form Key. Please refresh the page.","Chave de formulário inválida. Por favor, atualize a página.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Você inseriu uma Chave Secreta inválida. Por favor, atualize a página.",module,Magento_Backend
 "Cache Storage Management","Gerenciamento de Cache",module,Magento_Backend
 "Flush Magento Cache","Liberar Cache do Magento",module,Magento_Backend
@@ -960,7 +960,7 @@ FTP,FTP,module,Magento_Backup
 "Create Backup","Criar Backup",module,Magento_Backup
 Rollback,Reversão,module,Magento_Backup
 "Scheduled Backup Settings","Configurações de backup agendados",module,Magento_Backup
-"Enable Scheduled Backup","Habilitar o backup agendado",module,Magento_Backup
+"Enable Scheduled Backup","Habilitar o Backup Agendado",module,Magento_Backup
 "Backup Type","Tipo de backup",module,Magento_Backup
 "Start Time","Hora de Início",module,Magento_Backup
 Frequency,Frequência,module,Magento_Backup
