@@ -323,7 +323,7 @@ Total,Total,module,Magento_Backend
 Reset,Reiniciar,module,Magento_Backend
 Edit,Editar,module,Magento_Backend
 "What is this?","O que é isto?",module,Magento_Backend
-"Invalid Form Key. Please refresh the page.","Chave de forma inválida. Por favor, atualize a página.",module,Magento_Backend
+"Invalid Form Key. Please refresh the page.","Chave de formulário inválida. Por favor, atualize a página.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Você inseriu uma Chave Secreta inválida. Por favor, atualize a página.",module,Magento_Backend
 "Cache Storage Management","Gerenciamento de Cache",module,Magento_Backend
 "Flush Magento Cache","Liberar Cache do Magento",module,Magento_Backend
