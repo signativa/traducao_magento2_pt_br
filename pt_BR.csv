@@ -411,7 +411,7 @@ Debug,Depurar/Debug,module,Magento_Authorizenet
 "Minimum Order Total","Valor Mínimo do Pedido",module,Magento_Authorizenet
 "Maximum Order Total","Valor Total do Pedido",module,Magento_Authorizenet
 "Sort Order",Ordernação,module,Magento_Authorizenet
-"Invalid Form Key. Please refresh the page.","Chave de forma inválida. Por favor, atualize a página.",module,Magento_Backend
+"Invalid Form Key. Please refresh the page.","Chave de formulário inválida. Por favor, atualize a página.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Você inseriu uma Chave Secreta inválida. Por favor, atualize a página.",module,Magento_Backend
 "Cache Storage Management","Gerenciamento de Cache",module,Magento_Backend
 "Flush Magento Cache","Liberar Cache do Magento",module,Magento_Backend
