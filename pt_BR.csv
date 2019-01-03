@@ -5957,7 +5957,7 @@ Login,Entrar,module,Magento_Paypal
 "Shipping Address","Endereço de entrega",module,Magento_Paypal
 "Payment Method","Forma de pagamento",module,Magento_Paypal
 "Place Order","Finalizar Pedido",module,Magento_Paypal
-"Sorry, no quotes are available for this order at this time.","Sorry, no quotes are available for this order at this time.",module,Magento_Paypal
+"Sorry, no quotes are available for this order at this time.","Desculpe-nos, sem cotação disponível para este pedido neste momento.",module,Magento_Paypal
 Sales,Vendas,module,Magento_Paypal
 Created,Criado,module,Magento_Paypal
 Display,Exibir,module,Magento_Paypal
@@ -5992,18 +5992,18 @@ Authorization,Autorização,module,Magento_Paypal
 button_label,"rótulo do botão",module,Magento_Paypal
 sandbox_button_label,sandbox_button_label,module,Magento_Paypal
 Help,Ajuda,module,Magento_Paypal
-"There is already another PayPal solution enabled. Enable this solution instead?","There is already another PayPal solution enabled. Enable this solution instead?",module,Magento_Paypal
-"The following error(s) occured:","The following error(s) occured:",module,Magento_Paypal
+"There is already another PayPal solution enabled. Enable this solution instead?","Já existe outra solução do PayPal ativada. Deseja ativar esta solução em seu lugar?",module,Magento_Paypal
+"The following error(s) occured:","Os seguintes erros ocorreram:",module,Magento_Paypal
 "Some PayPal solutions conflict.","Some PayPal solutions conflict.",module,Magento_Paypal
-"PayPal Express Checkout is not enabled.","PayPal Express Checkout is not enabled.",module,Magento_Paypal
-"Please re-enable the previously enabled payment solutions.","Please re-enable the previously enabled payment solutions.",module,Magento_Paypal
+"PayPal Express Checkout is not enabled.","Checkout Expresso Paypal não está ativado.",module,Magento_Paypal
+"Please re-enable the previously enabled payment solutions.","Por favor, re-habilite as soluções de pagamento previamente habilitada.",module,Magento_Paypal
 "View Demo","Ver Demonstração",module,Magento_Paypal
 "See terms","Veja os termos",module,Magento_Paypal
 "You will be redirected to the PayPal website.","Você será redirecionado para o site do PayPal.",module,Magento_Paypal
 "Would you like to sign a billing agreement ' 'to streamline further purchases with PayPal?","Would you like to sign a billing agreement ' 'to streamline further purchases with PayPal?",module,Magento_Paypal
 "You will be redirected to the PayPal website when you place an order.","Será redirecionado para o site do PayPal quando confirmar o seu pedido.",module,Magento_Paypal
-"Click here if you are not redirected within 10 seconds.","Click here if you are not redirected within 10 seconds.",module,Magento_Paypal
-"You will be redirected to the PayPal website in a few seconds.","You will be redirected to the PayPal website in a few seconds.",module,Magento_Paypal
+"Click here if you are not redirected within 10 seconds.","Clique aqui se você não for redirecionado em 10 segundos.",module,Magento_Paypal
+"You will be redirected to the PayPal website in a few seconds.","Você será redirecionado para o site do PayPal em alguns segundos.",module,Magento_Paypal
 "You canceled the billing agreement.","Você cancelou o acordo de pagamento.",module,Magento_Paypal
 "We could not cancel the billing agreement.","We could not cancel the billing agreement.",module,Magento_Paypal
 "You deleted the billing agreement.","Eliminou o acordo de faturamento.",module,Magento_Paypal
@@ -6018,7 +6018,7 @@ Help,Ajuda,module,Magento_Paypal
 "We couldn't finish the billing agreement wizard.","Não conseguimos  terminar o assistente de acordo faturamento.",module,Magento_Paypal
 "The billing agreement ""%1"" has been canceled.","O acordo de faturamento ""%1"" foi cancelado.",module,Magento_Paypal
 "We couldn't cancel the billing agreement.","We couldn't cancel the billing agreement.",module,Magento_Paypal
-"To proceed to Checkout, please log in using your email address.","To proceed to Checkout, please log in using your email address.",module,Magento_Paypal
+"To proceed to Checkout, please log in using your email address.","Para prosseguir para o Checkout, por favor faça o login utilizando o seu endereço de email.",module,Magento_Paypal
 "We can't start Express Checkout.","Não podemos começar Express Checkout.",module,Magento_Paypal
 "Express Checkout and Order have been canceled.","O Express Checkout e o Pedido foram cancelados.",module,Magento_Paypal
 "Express Checkout has been canceled.","O Express Checkout foi cancelado.",module,Magento_Paypal
@@ -6067,7 +6067,7 @@ Auto,Automático,module,Magento_Paypal
 "The authorized amount is %1.","O valor autorizado é %1.",module,Magento_Paypal
 "The maximum number of child authorizations is reached.","Foi atingido o número máximo de autorizações descendentes.",module,Magento_Paypal
 "PayPal can't process orders with a zero balance due. ' 'To finish your purchase, please go through the standard checkout process.","PayPal can't process orders with a zero balance due. ' 'To finish your purchase, please go through the standard checkout process.",module,Magento_Paypal
-"Payer is not identified.","Payer is not identified.",module,Magento_Paypal
+"Payer is not identified.","Pagador(a) não identificado.",module,Magento_Paypal
 "Last Transaction ID","ID da Última Transação",module,Magento_Paypal
 "This customer did not include a confirmed address.","This customer did not include a confirmed address.",module,Magento_Paypal
 "The payment is authorized but not settled.","O pagamento está autorizado, mas não liquidado.",module,Magento_Paypal
@@ -6142,7 +6142,7 @@ Dispute,Disputa,module,Magento_Paypal
 "Matched (CVV2)","Correspondido (CVV2)",module,Magento_Paypal
 "N/A. The merchant has not implemented CVV2 code handling","N/D. O vendedor não implementou a manipulação do código CVV2",module,Magento_Paypal
 "N/A. Merchant has indicated that CVV2 is not present on card","N/D. O vendedor indicou que o CVV2 não está presente no cartão",module,Magento_Paypal
-"Authenticated, Good Result","Authenticated, Good Result",module,Magento_Paypal
+"Authenticated, Good Result","Autenticado, Bom Trabalho",module,Magento_Paypal
 "Authenticated, Bad Result","Authenticated, Bad Result",module,Magento_Paypal
 "Attempted Authentication, Good Result","Attempted Authentication, Good Result",module,Magento_Paypal
 "Attempted Authentication, Bad Result","Attempted Authentication, Bad Result",module,Magento_Paypal
@@ -6300,7 +6300,7 @@ Updated:,Atualizado:,module,Magento_Paypal
 "You will be redirected to the payment system website.","Você será redirecionado para o site de sistema de pagamento.",module,Magento_Paypal
 Create...,Criar...,module,Magento_Paypal
 "Your billing agreement # is:","O seu número de acordo de cobrança é:",module,Magento_Paypal
-"Review Order","Review Order",module,Magento_Paypal
+"Review Order","Revisar Pedido",module,Magento_Paypal
 "Please select a shipping method...","Por favor selecione um modo de envio...",module,Magento_Paypal
 "Update Shipping Method","Atualizar Métodos de Envio",module,Magento_Paypal
 "Edit Payment Information","Editar Informação do Pagamento",module,Magento_Paypal
