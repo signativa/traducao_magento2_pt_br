@@ -1430,7 +1430,7 @@ Default,Padrão,module,Magento_Bundle
 "Price Type","Tipo de preço",module,Magento_Bundle
 "Default Quantity","Quantidade padrão",module,Magento_Bundle
 "User Defined","Definidos pelo usuário",module,Magento_Bundle
-Ordered,Ordenado,module,Magento_Bundle
+Ordered,Comprado,module,Magento_Bundle
 Invoiced,Faturado,module,Magento_Bundle
 Shipped,Enviado,module,Magento_Bundle
 Refunded,Reembolsado,module,Magento_Bundle
@@ -3736,7 +3736,7 @@ subscribed,inscrito,module,Magento_CustomerSegment
 "Product %1","Produto %1",module,Magento_CustomerSegment
 "Date Ranges","Intervalo de Data",module,Magento_CustomerSegment
 viewed,visualizaram,module,Magento_CustomerSegment
-ordered,ordenou,module,Magento_CustomerSegment
+ordered,comprado,module,Magento_CustomerSegment
 was,era,module,Magento_CustomerSegment
 "was not","não era",module,Magento_CustomerSegment
 "If Product %1 %2 and matches %3 of these Conditions:","Se produto %1 %3 %2 e partidas destas condições:",module,Magento_CustomerSegment
@@ -3961,7 +3961,7 @@ Status,Status,module,Magento_Downloadable
 Title,Título,module,Magento_Downloadable
 "Browse Files...","Procurar Arquivos...",module,Magento_Downloadable
 "Use Default Value","Usar o Valor Padrão",module,Magento_Downloadable
-Ordered,Ordenado,module,Magento_Downloadable
+Ordered,Comprado,module,Magento_Downloadable
 Invoiced,Faturado,module,Magento_Downloadable
 Shipped,Enviado,module,Magento_Downloadable
 Refunded,Reembolsado,module,Magento_Downloadable
@@ -4316,7 +4316,7 @@ From,De,module,Magento_GiftCard
 Website,Website,module,Magento_GiftCard
 "All Websites","Todos os sites",module,Magento_GiftCard
 N/A,"Não Disponível",module,Magento_GiftCard
-Ordered,Ordenado,module,Magento_GiftCard
+Ordered,Comprado,module,Magento_GiftCard
 Invoiced,Faturado,module,Magento_GiftCard
 "In stock","Em estoque",module,Magento_GiftCard
 "Out of stock","Fora de estoque",module,Magento_GiftCard
@@ -6557,7 +6557,7 @@ Ineligible,Ineligible,module,Magento_Paypal
 "Clear Persistence on Log Out","Limpar a persistência no Log para fora",module,Magento_Persistent
 "Persist Shopping Cart","Persistir Carrinho de Compras",module,Magento_Persistent
 "Persist Wishlist","Persistir na Lista de desejos",module,Magento_PersistentHistory
-"Persist Recently Ordered Items","Persistir Itens Encomendados Recentemente",module,Magento_PersistentHistory
+"Persist Recently Ordered Items","Persistir Itens Comprados Recentemente",module,Magento_PersistentHistory
 "Persist Currently Compared Products","Persistir Produtos Atualmente em Comparação",module,Magento_PersistentHistory
 "Persist Comparison History","Persistir Histórico de Comparação",module,Magento_PersistentHistory
 "Persist Recently Viewed Products","Persistir Produtos Visualizados Recentemente",module,Magento_PersistentHistory
@@ -6868,7 +6868,7 @@ CSV,CSV,module,Magento_Reports
 Viewed,Visualizado,module,Magento_Reports
 Purchased,Comprado,module,Magento_Reports
 "Low stock","Estoque Mínimo",module,Magento_Reports
-"Products Ordered","Produtos ordenados",module,Magento_Reports
+"Products Ordered","Produtos comprados",module,Magento_Reports
 "Most Viewed","Mais visitados",module,Magento_Reports
 "Show Report","Mostrar relatório",module,Magento_Reports
 Interval,Intervalo,module,Magento_Reports
@@ -6920,7 +6920,7 @@ Carts,Carrinhos,module,Magento_Reports
 "Order Count Report","Relatório de contagem de pedidos",module,Magento_Reports
 "Customers by Number of Orders","Clientes por Número de Pedidos",module,Magento_Reports
 "Order Total Report","Relatório Total de Pedidos",module,Magento_Reports
-"Ordered Products Report","Relatório Ordenado de Pedidos",module,Magento_Reports
+"Ordered Products Report","Relatório de Pedidos",module,Magento_Reports
 "Product Views Report","Relatório de produtos vistos",module,Magento_Reports
 "Products Most Viewed Report","Relatório dos produtos mais vistos",module,Magento_Reports
 "Low Stock Report","Relatório de Estoque baixo",module,Magento_Reports
@@ -7742,7 +7742,7 @@ No,Não,module,Magento_Sales
 Qty,Qtd,module,Magento_Sales
 "Row Subtotal","Linha de Subtotal",module,Magento_Sales
 Action,Ação,module,Magento_Sales
-"No ordered items","Não há itens solicitados",module,Magento_Sales
+"No ordered items","Não há itens comprados",module,Magento_Sales
 "Total %1 product(s)","%1 produto(s) no total",module,Magento_Sales
 Subtotal:,Subtotal:,module,Magento_Sales
 "Excl. Tax","Excl. Impostos",module,Magento_Sales
@@ -7786,7 +7786,7 @@ Order,Pedido,module,Magento_Sales
 View,Visualizar,module,Magento_Sales
 "We cannot add this item to your shopping cart.","Não podemos adicionar esse item no seu carrinho de compras.",module,Magento_Sales
 N/A,"Não Disponível",module,Magento_Sales
-Ordered,Ordenado,module,Magento_Sales
+Ordered,Comprado,module,Magento_Sales
 Invoiced,Faturado,module,Magento_Sales
 Shipped,Enviado,module,Magento_Sales
 Refunded,Reembolsado,module,Magento_Sales
@@ -7910,7 +7910,7 @@ Invoices,Faturas,module,Magento_Sales
 "Items Ordered","Itens comprados",module,Magento_Sales
 "This product is disabled.","Este produto está desabilitado.",module,Magento_Sales
 "Buy %1 for price %2","Compre %1 pelo preço de %2",module,Magento_Sales
-"Item ordered qty","Qtde comprada do item",module,Magento_Sales
+"Item ordered qty","Qtd comprada do item",module,Magento_Sales
 "%1 with %2 discount each","%1 com %2 de desconto cada",module,Magento_Sales
 "%1 for %2","%1 por %2",module,Magento_Sales
 "* - Enter custom price including tax","* - Inserir preço personalizado, incluindo impostos",module,Magento_Sales
@@ -8780,7 +8780,7 @@ Print,Imprimir,module,Magento_Shipping
 "Tracking Information","Informações de rastreamento",module,Magento_Shipping
 "No detail for number ""%1""","Nenhum detalhe para o número ""%1""",module,Magento_Shipping
 "Customs Value","Valor personalizado",module,Magento_Shipping
-"Qty Ordered","Qtde comprada",module,Magento_Shipping
+"Qty Ordered","Qtd comprada",module,Magento_Shipping
 "Create Shipping Label","Criar etiquetas de envio",module,Magento_Shipping
 "Add Package","Adicionar pacote",module,Magento_Shipping
 "Create Packages","Criar pacotes",module,Magento_Shipping
@@ -10016,7 +10016,7 @@ Page,Página,module,Magento_VersionsCms
 Loading...,Carregando...,module,Magento_VersionsCms
 N/A,"Não Disponível",module,Magento_VersionsCms
 Default,Padrão,module,Magento_VersionsCms
-Ordered,Ordenado,module,Magento_VersionsCms
+Ordered,Comprado,module,Magento_VersionsCms
 Root,Raiz,module,Magento_VersionsCms
 "A total of %1 record(s) have been deleted.","Um total de %1 registro(s) foram excluídos.",module,Magento_VersionsCms
 "Manage Pages","Gerenciar páginas",module,Magento_VersionsCms
@@ -10148,7 +10148,7 @@ Both,Ambos,module,Magento_VersionsCms
 Circle,Círculo,module,Magento_VersionsCms
 Disc,Disco,module,Magento_VersionsCms
 Square,Quadrado,module,Magento_VersionsCms
-Unordered,"Não ordenado",module,Magento_VersionsCms
+Unordered,"Não comprado",module,Magento_VersionsCms
 "Use Parent","Usar pai",module,Magento_VersionsCms
 "Use the parent node hierarchy.","Use a hierarquia do nó pai.",module,Magento_VersionsCms
 "Are you sure you want to delete current hierarchy?","Are you sure you want to delete current hierarchy?",module,Magento_VersionsCms
