@@ -7642,9 +7642,9 @@ ID,ID,module,Magento_NegotiableQuote
 "Quote Total (Negotiated)","Quote Total (Negotiated)",module,Magento_NegotiableQuote
 "Quote Name","Quote Name",module,Magento_NegotiableQuote
 "Quote Total","Quote Total",module,Magento_NegotiableQuote
-"No such public catalog entity","No such public catalog entity",module,Magento_NegotiableQuoteSharedCatalog
+"No such public catalog entity","Nenhuma entidade de catálogo público",module,Magento_NegotiableQuoteSharedCatalog
 "Requested product doesn't exist","Produto requisitado não existe",module,Magento_NegotiableQuoteSharedCatalog
-"Shared Catalog (or Customer Group)","Shared Catalog (or Customer Group)",module,Magento_NegotiableQuoteSharedCatalog
+"Shared Catalog (or Customer Group)","Catálogo Compartilhado (ou Grupo de Clientes)",module,Magento_NegotiableQuoteSharedCatalog
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Não está configurado nenhuma ID de Aplicação New Relic, não é possível continuar com o relatório através de eventos Cron",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","A integração New Relic exige o agente newrelic-php5, que não está instalado. Mais informação sobre como instalar o agente está disponível <a target=""_blank"" href=""%1"">aqui</a>.",module,Magento_NewRelicReporting
