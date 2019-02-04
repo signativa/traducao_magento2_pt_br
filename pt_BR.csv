@@ -7689,12 +7689,12 @@ Number,Número,module,Magento_Rma
 "Are you sure?","Você tem certeza?",module,Magento_Rma
 "Shipping Method","Método de Entrega",module,Magento_Rma
 "Create Shipping Label","Criar etiquetas de envio",module,Magento_Rma
-"Enabled when authorized items require a new shipment.","Enabled when authorized items require a new shipment.",module,Magento_Rma
+"Enabled when authorized items require a new shipment.","Habilitado quando itens autorizados requerem uma nova remessa.",module,Magento_Rma
 "Order &amp; Account Information","Pedido e Informações de Conta",module,Magento_Rma
 "Return Totals","Total reembolsado",module,Magento_Rma
 "Return Confirmation","Confirmação de devolução",module,Magento_Rma
 "Email Returns Confirmation","E-mail de confirmação de devolução",module,Magento_Rma
-"RMA Items Requested for","RMA Items Requested for",module,Magento_Rma
+"RMA Items Requested for","Itens RMA solicitados para",module,Magento_Rma
 "Please Select Products to Add","Por favor, selecione produtos para adicionar",module,Magento_Rma
 Remove,Remover,module,Magento_Rma
 Item,Item,module,Magento_Rma
@@ -7741,12 +7741,12 @@ Height,Altura,module,Magento_Rma
 Questions,Questões,module,Magento_Rma
 Answers,Respostas,module,Magento_Rma
 "Leave Comment","Deixar comentário",module,Magento_Rma
-"New Comment for RMA #%increment_id","New Comment for RMA #%increment_id",module,Magento_Rma
+"New Comment for RMA #%increment_id","Novo comentário para RMA #%increment_id",module,Magento_Rma
 "Customer %name has left a new comment:","Cliente %name deixou um novo comentário:",module,Magento_Rma
 "%name,","%name,",module,Magento_Rma
 "Your return request has been updated. Please see below.","Seu pedido de devolução foi atualizado. Por favor, veja abaixo.",module,Magento_Rma
-"You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.",module,Magento_Rma
-"If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone",module,Magento_Rma
+"You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","Você pode verificar o status do seu retorno <a href=""%account_url"">logando na sua conta</a> ou <a href=""%form_url"">usando o seu número do pedido</a>.",module,Magento_Rma
+"If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Se você tiver alguma dúvida, por favor, sinta-se livre para nos contatar no <a href=""mailto:%support_email"">%support_email</a> ou por telefone em %store_phone",module,Magento_Rma
 "Your Return #%increment_id - %status_label","Sua Devolução #%increment_id - %status_label",module,Magento_Rma
 "You can check the status of your return <a href=""%form_url"">using your order number</a>.","Você pode verificar o status de seu retorno <a href=""%form_url"">usando seu número de ordem</a>.",module,Magento_Rma
 "If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","Se você tem perguntas sobre seu pedido, você pode nos enviar em <a href=""mailto:%support_email""> %store_email</a>.",module,Magento_Rma
@@ -7774,15 +7774,15 @@ Comma-separated,"Separados por vírgula",module,Magento_Rma
 "RMA Authorization Email Sender","Remetente de E-mail de autorização de RMA",module,Magento_Rma
 "RMA Authorization Email Template","Modelo de E-mail de autorização de RMA",module,Magento_Rma
 "RMA Authorization Email Template for Guest","Modelo de E-mail de autorização de RMA para Visitantes",module,Magento_Rma
-"Send RMA Authorization Email Copy To","Send RMA Authorization Email Copy To",module,Magento_Rma
-"Send RMA Authorization Email Copy Method","Send RMA Authorization Email Copy Method",module,Magento_Rma
-"RMA Admin Comments","RMA Admin Comments",module,Magento_Rma
-"RMA Comment Email Sender","RMA Comment Email Sender",module,Magento_Rma
-"RMA Comment Email Template","RMA Comment Email Template",module,Magento_Rma
-"RMA Comment Email Template for Guest","RMA Comment Email Template for Guest",module,Magento_Rma
-"Send RMA Comment Email Copy To","Send RMA Comment Email Copy To",module,Magento_Rma
-"RMA Customer Comments","RMA Customer Comments",module,Magento_Rma
-"RMA Comment Email Recipient","RMA Comment Email Recipient",module,Magento_Rma
+"Send RMA Authorization Email Copy To","Enviar E-mail de autorização RMA para",module,Magento_Rma
+"Send RMA Authorization Email Copy Method","Enviar Email cópia de autorização RMA Método",module,Magento_Rma
+"RMA Admin Comments","Comentários do Admin RMA",module,Magento_Rma
+"RMA Comment Email Sender","Email do remetente do comentário RMA",module,Magento_Rma
+"RMA Comment Email Template","Modelo de Email do comentário RMA",module,Magento_Rma
+"RMA Comment Email Template for Guest","Modelo de Email do comentário RMA para convidado",module,Magento_Rma
+"Send RMA Comment Email Copy To","Enviar cópia do Email do comentário RMA para",module,Magento_Rma
+"RMA Customer Comments","Comentários do Cliente RMA",module,Magento_Rma
+"RMA Comment Email Recipient","Recebedor do Email do comentário RMA",module,Magento_Rma
 "Enabled for RMA","Habilitado para RMA",module,Magento_Rma
 "Page not found.","Página não encontrada.",module,Magento_Rss
 Feed,Feed,module,Magento_Rss
@@ -9417,7 +9417,7 @@ Model,Modelo,module,Magento_Support
 "Additional Attribute Table","Tabela adicional de atributo",module,Magento_Support
 "New Eav Attributes","Novos atributos Eav",module,Magento_Support
 "Product Eav Attributes","Atributos de produto Eav",module,Magento_Support
-"Rma Item Eav Attributes","Rma Item Eav Attributes",module,Magento_Support
+"Rma Item Eav Attributes","Atributos de Eav Item Rma",module,Magento_Support
 "User Defined Eav Attributes","Atributos Eav definidos pelo usuário",module,Magento_Support
 Name,Nome,module,Magento_Support
 Enabled,Habilitado,module,Magento_Support
@@ -9457,26 +9457,26 @@ Status,Status,module,Magento_Support
 "Scheduled At","Agendado em",module,Magento_Support
 "Executed At","Executado em",module,Magento_Support
 "Finished At","Finalizado em",module,Magento_Support
-"Core Configurable Cron Jobs","Core Configurable Cron Jobs",module,Magento_Support
-"Core Global Cron Jobs","Core Global Cron Jobs",module,Magento_Support
-"Cron Schedules by job code","Cron Schedules by job code",module,Magento_Support
+"Core Configurable Cron Jobs","Tarefas centrais configuráveis via Cron",module,Magento_Support
+"Core Global Cron Jobs","Tarefas principais globais via Cron",module,Magento_Support
+"Cron Schedules by job code","Tarefas Cron agendáveis via código",module,Magento_Support
 Count,Contagem,module,Magento_Support
-"Cron Schedules by status code","Cron Schedules by status code",module,Magento_Support
+"Cron Schedules by status code","Tarefas Cron agendáveis via status",module,Magento_Support
 "Status Code","Código de status",module,Magento_Support
-"Custom Configurable Cron Jobs","Custom Configurable Cron Jobs",module,Magento_Support
-"Custom Global Cron Jobs","Custom Global Cron Jobs",module,Magento_Support
-"Errors in Cron Schedules Queue","Errors in Cron Schedules Queue",module,Magento_Support
+"Custom Configurable Cron Jobs","Tarefas personalizadas configuráveis via Cron",module,Magento_Support
+"Custom Global Cron Jobs","Tarefas personalizadas globais via Cron",module,Magento_Support
+"Errors in Cron Schedules Queue","Erros na fila de agendamentos Cron",module,Magento_Support
 Error,Erro,module,Magento_Support
-"Corrupted Categories Data","Corrupted Categories Data",module,Magento_Support
+"Corrupted Categories Data","Dados de Categorias Corrompidos",module,Magento_Support
 Id,Id,module,Magento_Support
-"Expected Children Count","Expected Children Count",module,Magento_Support
-"Actual Children Count","Actual Children Count",module,Magento_Support
+"Expected Children Count","Esperado contagem de filhos",module,Magento_Support
+"Actual Children Count","Contagem atual de filhos",module,Magento_Support
 "Expected Level","Nível esperado",module,Magento_Support
 "Actual Level","Nível atual",module,Magento_Support
 "Duplicate Categories By URL Key","Categorias duplicadas pela chave de URL",module,Magento_Support
 "URL key","Chave URL",module,Magento_Support
 Store,Loja,module,Magento_Support
-"Duplicate Orders By Increment Id","Duplicate Orders By Increment Id",module,Magento_Support
+"Duplicate Orders By Increment Id","Pedidos duplicados por incremento de ID",module,Magento_Support
 "Increment Id","Id de incremento",module,Magento_Support
 "Customer Id","Id do cliente",module,Magento_Support
 "Duplicate Products By SKU","Duplicar produtos pela SKU",module,Magento_Support
@@ -9484,18 +9484,18 @@ SKU,SKU,module,Magento_Support
 "Duplicate Products By URL Key","Duplicar produtos pela Chave de URL",module,Magento_Support
 "URL Key","Chave URL",module,Magento_Support
 Website,Website,module,Magento_Support
-"Duplicate Users By Email","Duplicate Users By Email",module,Magento_Support
+"Duplicate Users By Email","Usuários duplicados por Email",module,Magento_Support
 Email,E-mail,module,Magento_Support
 Type,Tipo,module,Magento_Support
 Parent,Antecessor,module,Magento_Support
-"Adminhtml Themes List","Adminhtml Themes List",module,Magento_Support
-"Frontend Themes List","Frontend Themes List",module,Magento_Support
+"Adminhtml Themes List","Lista de temas Adminhtml",module,Magento_Support
+"Frontend Themes List","Lista de Temas Frontend",module,Magento_Support
 "Event Name","Nome do Evento",module,Magento_Support
-"Observer Class","Observer Class",module,Magento_Support
+"Observer Class","Classe Observadora",module,Magento_Support
 Method,Método,module,Magento_Support
 "All Admin Events","Todos os Eventos do Admin",module,Magento_Support
 "All Crontab Events","Todos os Eventos de Crontab",module,Magento_Support
-"All Doc Events","All Doc Events",module,Magento_Support
+"All Doc Events","Eventos Todos Documentos",module,Magento_Support
 "All Frontend Events","Todos os Eventos de Front End",module,Magento_Support
 "All Global events","Todos os eventos Globais",module,Magento_Support
 "All REST Events","All REST Events",module,Magento_Support
