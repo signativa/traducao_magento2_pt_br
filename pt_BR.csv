@@ -7222,10 +7222,10 @@ Options,Opções,module,Magento_Multishipping
 "Successful Messages Lifetime","Tempo de Vida das Mensagens Bem-sucedidas",module,Magento_MysqlMq
 "Failed Messages Lifetime","Tempo de vida de Mensagens que Falharam",module,Magento_MysqlMq
 "New Messages Lifetime","Tempo de Vida das Novas Mensagens",module,Magento_MysqlMq
-"Catalog Total Price (Excl. Tax)","Preço Total de catálogo (excluindo impostos)",module,Magento_NegotiableQuote
-"Catalog Total Price (Incl. Tax)","Preço Total de catálogo (excluindo impostos)",module,Magento_NegotiableQuote
-"Catalog Total Price","Preço Total do catálogo",module,Magento_NegotiableQuote
-"Negotiated Discount","Desconto negociado",module,Magento_NegotiableQuote
+"Catalog Total Price (Excl. Tax)","Preço Total do Catálogo (sem impostos)",module,Magento_NegotiableQuote
+"Catalog Total Price (Incl. Tax)","Preço Total do Catálogo (Incl. Imposto)",module,Magento_NegotiableQuote
+"Catalog Total Price","Preço Total do Catálogo",module,Magento_NegotiableQuote
+"Negotiated Discount","Desconto Negociado",module,Magento_NegotiableQuote
 Back,Voltar,module,Magento_NegotiableQuote
 Print,Imprimir,module,Magento_NegotiableQuote
 "Save as Draft","Salvar como Rascunho",module,Magento_NegotiableQuote
@@ -7262,7 +7262,7 @@ Qty:,Qtd:,module,Magento_NegotiableQuote
 "- deleted from catalog","-excluído do catálogo",module,Magento_NegotiableQuote
 (Removed),(Removido),module,Magento_NegotiableQuote
 deleted,excluído,module,Magento_NegotiableQuote
-"Renderer list for block ""%1"" is not defined","Renderer list for block ""%1"" is not defined",module,Magento_NegotiableQuote
+"Renderer list for block ""%1"" is not defined","Lista de renderizadores para o bloco ""%1"" não está definida",module,Magento_NegotiableQuote
 "This quote is currently locked for editing. It will become available once released by the Merchant.","Esta cotação está bloqueada para edição. Ele se tornará disponível assim que liberado pelo comerciante.",module,Magento_NegotiableQuote
 "Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Sua cotação expirou e os preços de produto foram atualizados conforme os preços mais recentes em seu catálogo. Você pode voltar a apresentar a cotação ao vendedor para uma futura negociação ou ir para check-out.",module,Magento_NegotiableQuote
 "You are not an owner of this quote. You cannot edit it or take any actions on it.","Você não é o proprietário desta cotação. Você não pode editá-lo ou tomar qualquer ação sobre ela.",module,Magento_NegotiableQuote
@@ -7272,14 +7272,14 @@ Discount,Desconto,module,Magento_NegotiableQuote
 "Quote Grand Total (Incl. Tax)","Preço Final (Com Impostos)",module,Magento_NegotiableQuote
 "Grand Total to Be Charged","Valor total a cobrar",module,Magento_NegotiableQuote
 "Requested quote was not found","Cotação solicitada não foi encontrada",module,Magento_NegotiableQuote
-Sales,Sales,module,Magento_NegotiableQuote
-Quotes,Quotes,module,Magento_NegotiableQuote
-"Something went wrong. Please try again later.","Something went wrong. Please try again later.",module,Magento_NegotiableQuote
-"Something went wrong","Something went wrong",module,Magento_NegotiableQuote
-"Something went wrong during quote declining","Something went wrong during quote declining",module,Magento_NegotiableQuote
-"Attachment not found.","Attachment not found.",module,Magento_NegotiableQuote
-"Quote #%1","Quote #%1",module,Magento_NegotiableQuote
-"Exception occurred during quote print: %1","Exception occurred during quote print: %1",module,Magento_NegotiableQuote
+Sales,Vendas,module,Magento_NegotiableQuote
+Quotes,Citações,module,Magento_NegotiableQuote
+"Something went wrong. Please try again later.","Algo deu errado. Por favor, tente novamente mais tarde.",module,Magento_NegotiableQuote
+"Something went wrong","Houve algum problema",module,Magento_NegotiableQuote
+"Something went wrong during quote declining","Uma anomalia aconteceu durante a simulação",module,Magento_NegotiableQuote
+"Attachment not found.","Anexo não encontrado.",module,Magento_NegotiableQuote
+"Quote #%1","Cotação #%1",module,Magento_NegotiableQuote
+"Exception occurred during quote print: %1","Ocorreu uma exceção durante a exibição da cotação: %1",module,Magento_NegotiableQuote
 "Exception occurred during update quote","Exception occurred during update quote",module,Magento_NegotiableQuote
 "Exception occurred during quote saving","Exception occurred during quote saving",module,Magento_NegotiableQuote
 "The changes have been saved.","The changes have been saved.",module,Magento_NegotiableQuote
