@@ -5994,13 +5994,13 @@ sandbox_button_label,sandbox_button_label,module,Magento_Paypal
 Help,Ajuda,module,Magento_Paypal
 "There is already another PayPal solution enabled. Enable this solution instead?","Já existe outra solução do PayPal ativada. Deseja ativar esta solução em seu lugar?",module,Magento_Paypal
 "The following error(s) occured:","Os seguintes erros ocorreram:",module,Magento_Paypal
-"Some PayPal solutions conflict.","Some PayPal solutions conflict.",module,Magento_Paypal
+"Some PayPal solutions conflict.","Alguns conflitos das soluções do PayPal.",module,Magento_Paypal
 "PayPal Express Checkout is not enabled.","Checkout Expresso Paypal não está ativado.",module,Magento_Paypal
 "Please re-enable the previously enabled payment solutions.","Por favor, re-habilite as soluções de pagamento previamente habilitada.",module,Magento_Paypal
 "View Demo","Ver Demonstração",module,Magento_Paypal
 "See terms","Veja os termos",module,Magento_Paypal
 "You will be redirected to the PayPal website.","Você será redirecionado para o site do PayPal.",module,Magento_Paypal
-"Would you like to sign a billing agreement ' 'to streamline further purchases with PayPal?","Would you like to sign a billing agreement ' 'to streamline further purchases with PayPal?",module,Magento_Paypal
+"Would you like to sign a billing agreement ' 'to streamline further purchases with PayPal?","Gostaria de assinar um acordo de faturamento para finalizar as suas futuras compras com PayPal mais rapidamente?",module,Magento_Paypal
 "You will be redirected to the PayPal website when you place an order.","Será redirecionado para o site do PayPal quando confirmar o seu pedido.",module,Magento_Paypal
 "Click here if you are not redirected within 10 seconds.","Clique aqui se você não for redirecionado em 10 segundos.",module,Magento_Paypal
 "You will be redirected to the PayPal website in a few seconds.","Você será redirecionado para o site do PayPal em alguns segundos.",module,Magento_Paypal
@@ -7246,10 +7246,10 @@ None.,Nenhum.,module,Magento_Reward
 "Balance limitations:","Limitação de saldo:",module,Magento_Reward
 "The balance is capped at %1.","O saldo está limitado a %1.",module,Magento_Reward
 "Maximum balance is reached","O saldo máximo foi atingido",module,Magento_Reward
-"Balance Redemption Threshold: %1.","Balance Redemption Threshold: %1.",module,Magento_Reward
+"Balance Redemption Threshold: %1.","Limite de Redenção de Saldo: %1.",module,Magento_Reward
 "You do not have the minimum balance you need to redeem your rewards points.","Você não tem o saldo mínimo que você precisa resgatar seus pontos de recompensas.",module,Magento_Reward
-"Each earned reward points record expires in %1 days.","Each earned reward points record expires in %1 days.",module,Magento_Reward
-"Refer to reward points history to see if and when a specific record expires.","Refer to reward points history to see if and when a specific record expires.",module,Magento_Reward
+"Each earned reward points record expires in %1 days.","Cada prêmio em pontos de recompensa ganhos expira em %1 dia(s).",module,Magento_Reward
+"Refer to reward points history to see if and when a specific record expires.","Consulte o histórico de pontos de recompensa para ver quando um registro específico expira.",module,Magento_Reward
 "Email Notification Settings","Configurações de notificação de E-mail",module,Magento_Reward
 "Save Subscription Settings","Salvar configurações de assinatura",module,Magento_Reward
 "Your current balance is %1.","Seu saldo atual é %1.",module,Magento_Reward
@@ -9207,9 +9207,9 @@ State,Estado,module,Magento_Tax
 "Zip code should not contain characters other than digits.","O código postal não deve conter caracteres que não sejam dígitos.",module,Magento_Tax
 "Range To should be equal or greater than Range From.","Intervalo ""Para"" deve ser igual ou maior que o intervalo ""De"".",module,Magento_Tax
 "This class no longer exists.","Esta classe não existe mais.",module,Magento_Tax
-"You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.",module,Magento_Tax
+"You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","Você não pode deletar esta classe de imposto porque ela é usada em Regras de Imposto. Você deve primeiro deletar as regras que usam ela.",module,Magento_Tax
 "You cannot delete this tax class because it is used in existing %1(s).","Não é possível excluir essa classe de imposto porque é usado em existente%1(s).",module,Magento_Tax
-"Custom price if available","Custom price if available",module,Magento_Tax
+"Custom price if available","Preço personalizado se disponível",module,Magento_Tax
 "Original price only","Preço original apenas",module,Magento_Tax
 "Shipping Origin","Origem da Expedição",module,Magento_Tax
 "No (price without tax)","Não (preço sem imposto)",module,Magento_Tax
