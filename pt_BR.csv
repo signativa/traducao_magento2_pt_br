@@ -2612,7 +2612,7 @@ Password,Senha,module,Magento_Checkout
 "Ship to different address","Enviar para um outro endereço",module,Magento_Checkout
 Continue,Continuar,module,Magento_Checkout
 "Order #","Pedido #",module,Magento_Checkout
-"Proceed to Checkout","Avançar para Checkout",module,Magento_Checkout
+"Proceed to Checkout","Avançar para o Checkout",module,Magento_Checkout
 Login,Entrar,module,Magento_Checkout
 "Already registered?","Já está registrado?",module,Magento_Checkout
 "Please log in below:","Por favor, efetue o login abaixo:",module,Magento_Checkout
@@ -3031,7 +3031,7 @@ Change,Alterar,module,Magento_Customer
 "End Date","Data de Término",module,Magento_Customer
 "Customer Groups","Grupos de Cliente",module,Magento_Customer
 Country,País,module,Magento_Customer
-State/Province,Estado/Província,module,Magento_Customer
+State/Province,Estado,module,Magento_Customer
 "Please select region, state or province","Por favor, selecione uma região, estado ou província",module,Magento_Customer
 City,Cidade,module,Magento_Customer
 "Zip/Postal Code",CEP,module,Magento_Customer
@@ -3497,7 +3497,7 @@ Attributes,Atributos,module,Magento_CustomerCustomAttributes
 "An attribute with this code already exists.","Um atributo com esse código já existe.",module,Magento_CustomerCustomAttributes
 "Please confirm site switching. All data that hasn't been saved will be lost.","Por favor, confirme a mudança de escopo. Todos os dados que ainda não foram salvos serão perdidos.",module,Magento_CustomerCustomAttributes
 Country,País,module,Magento_CustomerCustomAttributes
-State/Province,Estado/Província,module,Magento_CustomerCustomAttributes
+State/Province,Estado,module,Magento_CustomerCustomAttributes
 "Please select region, state or province","Por favor selecione região, estado ou província",module,Magento_CustomerCustomAttributes
 City,Cidade,module,Magento_CustomerCustomAttributes
 "Zip/Postal Code",CEP,module,Magento_CustomerCustomAttributes
@@ -3656,7 +3656,7 @@ Conditions,Condições,module,Magento_CustomerSegment
 Inactive,Inativo,module,Magento_CustomerSegment
 "Conditions Combination","Combinação de Condições",module,Magento_CustomerSegment
 Country,País,module,Magento_CustomerSegment
-State/Province,Estado/Província,module,Magento_CustomerSegment
+State/Province,Estado,module,Magento_CustomerSegment
 Sales,Vendas,module,Magento_CustomerSegment
 "Registered Customers","Clientes registrados",module,Magento_CustomerSegment
 "Store Credit","Loja de Crédito",module,Magento_CustomerSegment
@@ -4196,7 +4196,7 @@ GLOBAL,GLOBAL,module,Magento_Email
 "Custom2 Contact Email","E-mail de contato PERSONALIZADO2",module,Magento_Email
 "Store Name","Nome da loja",module,Magento_Email
 "Store Phone Number","Número de telefone da loja",module,Magento_Email
-Region/State,Região/estado,module,Magento_Email
+Region/State,Região/Estado,module,Magento_Email
 "Street Address 1","Endereço da rua 1",module,Magento_Email
 "Street Address 2","Endereço da rua 2",module,Magento_Email
 "Store Contact Information","Armazenar informações de contato",module,Magento_Email
@@ -4588,7 +4588,7 @@ Role,Função,module,Magento_GiftRegistry
 Inactive,Inativo,module,Magento_GiftRegistry
 "New Address","Novo Endereço",module,Magento_GiftRegistry
 Country,País,module,Magento_GiftRegistry
-State/Province,Estado/Província,module,Magento_GiftRegistry
+State/Province,Estado,module,Magento_GiftRegistry
 City,Cidade,module,Magento_GiftRegistry
 "Zip/Postal Code",CEP,module,Magento_GiftRegistry
 "Email Address","Endereço de e-mail",module,Magento_GiftRegistry
@@ -5809,7 +5809,7 @@ Import,Importar,module,Magento_OfflineShipping
 Country,País,module,Magento_OfflineShipping
 "Zip/Postal Code",CEP,module,Magento_OfflineShipping
 Condition,Condição,module,Magento_OfflineShipping
-Region/State,Região/estado,module,Magento_OfflineShipping
+Region/State,Região/Estado,module,Magento_OfflineShipping
 "Shipping Price","Preço do envio",module,Magento_OfflineShipping
 "Export CSV","Exportar CSV",module,Magento_OfflineShipping
 "Store Pickup","Levantamento em Loja",module,Magento_OfflineShipping
