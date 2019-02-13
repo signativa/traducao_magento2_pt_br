@@ -108,7 +108,7 @@ Configure,Configurar,module,Magento_AdvancedCheckout
 "We can't find this store.","Não encontramos esta loja.",module,Magento_AdvancedCheckout
 Customers,Clientes,module,Magento_AdvancedCheckout
 "Shopping Cart","Carrinho de Compras",module,Magento_AdvancedCheckout
-"Sorry, something went wrong. You can find out more in the error log.","Desculpe, algo deu errado. Mais informação disponível no log de erros.",module,Magento_AdvancedCheckout
+"Sorry, something went wrong. You can find out more in the error log.","Desculpe, algo deu errado. Você encontrará mais detalhes no log de erros.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Você não tem acesso.",module,Magento_AdvancedCheckout
 "Ordered item id is not received.","Id do item solicitado não foi recebido.",module,Magento_AdvancedCheckout
 "Ordered item is not loaded.","Item solicitado não está carregado.",module,Magento_AdvancedCheckout
@@ -2750,7 +2750,7 @@ Edit,Editar,module,Magento_Checkout
 "Excl. Tax","Excl. Impostos",module,Magento_Checkout
 Loading...,Carregando...,module,Magento_Checkout
 "Order #","Pedido #",module,Magento_Checkout
-"Proceed to Checkout","Avançar para Checkout",module,Magento_Checkout
+"Proceed to Checkout","Avançar para o Checkout",module,Magento_Checkout
 "Product Name","Nome do produto",module,Magento_Checkout
 "Incl. Tax","Imposto Incl.",module,Magento_Checkout
 "Your order number is: %1.","O número do seu pedido é: %1.",module,Magento_Checkout
@@ -4310,7 +4310,7 @@ Address,Endereço,module,Magento_Customer
 "Street Address %1",Rua,module,Magento_Customer
 "VAT Number",CPF/CNPJ,module,Magento_Customer
 City,Cidade,module,Magento_Customer
-State/Province,Estado/Província,module,Magento_Customer
+State/Province,Estado,module,Magento_Customer
 "Please select a region, state or province.","Por favor, selecione uma região, estado ou província.",module,Magento_Customer
 "Zip/Postal Code",CEP,module,Magento_Customer
 Country,País,module,Magento_Customer
@@ -4364,7 +4364,7 @@ Password:,Senha:,module,Magento_Customer
 "Password you set when creating account","Senha que você definiu ao criar a conta",module,Magento_Customer
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Esqueceu sua senha? Clique <a href=""%reset_url""> aqui</a> para redefinir.",module,Magento_Customer
 "When you sign in to your account, you will be able to:","Quando você entrar em sua conta, você vai poder:",module,Magento_Customer
-"Proceed through checkout faster","Finalizar a compra de forma mais rápida",module,Magento_Customer
+"Proceed through checkout faster","Continuar com checkout rápido",module,Magento_Customer
 "Check the status of orders","Verificar o status dos seus pedidos",module,Magento_Customer
 "View past orders","Ver os pedidos que você já realizou",module,Magento_Customer
 "Store alternative addresses (for shipping to multiple family members and friends)","Cadastre endereços alternativos (para entregas para vários parentes ou amigos)",module,Magento_Customer
@@ -4686,7 +4686,7 @@ Address,Endereço,module,Magento_CustomerCustomAttributes
 "Street Address %1",Rua,module,Magento_CustomerCustomAttributes
 "VAT Number","Número VAT",module,Magento_CustomerCustomAttributes
 City,Cidade,module,Magento_CustomerCustomAttributes
-State/Province,Estado/Província,module,Magento_CustomerCustomAttributes
+State/Province,Estado,module,Magento_CustomerCustomAttributes
 "Please select a region, state or province.","Por favor, selecione uma região, estado ou província.",module,Magento_CustomerCustomAttributes
 "Zip/Postal Code",CEP,module,Magento_CustomerCustomAttributes
 Country,País,module,Magento_CustomerCustomAttributes
@@ -4890,7 +4890,7 @@ Group,Grupo,module,Magento_CustomerSegment
 Phone,Telefone,module,Magento_CustomerSegment
 ZIP,CEP,module,Magento_CustomerSegment
 Country,País,module,Magento_CustomerSegment
-State/Province,Estado/Província,module,Magento_CustomerSegment
+State/Province,Estado,module,Magento_CustomerSegment
 "Customer Since","Cliente desde",module,Magento_CustomerSegment
 "View Combined Report","Exibir Relatório Combinado",module,Magento_CustomerSegment
 Set,Definir,module,Magento_CustomerSegment
@@ -5442,7 +5442,7 @@ Unknown,Desconhecido,module,Magento_Email
 "Store Phone Number","Número de telefone da loja",module,Magento_Email
 "Store Hours","Armazenar horas",module,Magento_Email
 Country,País,module,Magento_Email
-Region/State,Região/estado,module,Magento_Email
+Region/State,Região/Estado,module,Magento_Email
 "Zip/Postal Code",CEP,module,Magento_Email
 City,Cidade,module,Magento_Email
 "Street Address 1","Endereço da rua 1",module,Magento_Email
@@ -5960,7 +5960,7 @@ None,Nenhum,module,Magento_GiftRegistry
 "New Address","Novo Endereço",module,Magento_GiftRegistry
 "Edit Gift Registry","Editar a lista de presentes",module,Magento_GiftRegistry
 "Create Gift Registry","Criar lista de presentes",module,Magento_GiftRegistry
-State/Province,Estado/Província,module,Magento_GiftRegistry
+State/Province,Estado,module,Magento_GiftRegistry
 "Please select a region, state or province","Por favor, selecione uma região, estado ou província",module,Magento_GiftRegistry
 "Please Select","Por Favor Selecione",module,Magento_GiftRegistry
 "View Gift Registry %1","Ver lista de presente %1",module,Magento_GiftRegistry
@@ -7315,7 +7315,7 @@ Quote,Quote,module,Magento_NegotiableQuote
 "Requested quote is not found. Row ID: %fieldName = %fieldValue","Requested quote is not found. Row ID: %fieldName = %fieldValue",module,Magento_NegotiableQuote
 "There was an error saving comment.","There was an error saving comment.",module,Magento_NegotiableQuote
 "Cannot delete comment with id %1","Cannot delete comment with id %1",module,Magento_NegotiableQuote
-"There was an error saving company quote config.","There was an error saving company quote config.",module,Magento_NegotiableQuote
+"There was an error saving company quote config.","Houve um erro ao salvar a configuração de cotação da empresa.",module,Magento_NegotiableQuote
 Yes,Yes,module,Magento_NegotiableQuote
 No,No,module,Magento_NegotiableQuote
 System,System,module,Magento_NegotiableQuote
@@ -7360,8 +7360,8 @@ Closed,Closed,module,Magento_NegotiableQuote
 "The discount has changed for this quote. Check the History Log for details.","The discount has changed for this quote. Check the History Log for details.",module,Magento_NegotiableQuote
 "The discount for this quote has been removed because the buyer has reached the maximum number of attempts to request a discount. You may want to review the offer amount.","The discount for this quote has been removed because the buyer has reached the maximum number of attempts to request a discount. You may want to review the offer amount.",module,Magento_NegotiableQuote
 "The discount for this quote has been removed because the cart rule has been deleted. You may want to review the offer amount.","The discount for this quote has been removed because the cart rule has been deleted. You may want to review the offer amount.",module,Magento_NegotiableQuote
-"Quote taxes have been recalculated because the buyer added or changed the shipping address. You may want to review the offer amount.","Quote taxes have been recalculated because the buyer added or changed the shipping address. You may want to review the offer amount.",module,Magento_NegotiableQuote
-"Buyer added or changed the shipping address. You may want to offer the shipping price or / and review the offer amount.","Buyer added or changed the shipping address. You may want to offer the shipping price or / and review the offer amount.",module,Magento_NegotiableQuote
+"Quote taxes have been recalculated because the buyer added or changed the shipping address. You may want to review the offer amount.","Os impostos de cotação foram recalculados porque o comprador adicionou ou mudou o endereço de envio. Você pode querer rever o valor da oferta.",module,Magento_NegotiableQuote
+"Buyer added or changed the shipping address. You may want to offer the shipping price or / and review the offer amount.","Comprador adicionou ou mudou o endereço de envio. Você pode querer oferecer o preço de envio ou / e rever o valor da oferta.",module,Magento_NegotiableQuote
 "has been deleted from the catalog, so the items quoted list has been updated.","has been deleted from the catalog, so the items quoted list has been updated.",module,Magento_NegotiableQuote
 "have been deleted from the catalog, so the items quoted list has been updated.","have been deleted from the catalog, so the items quoted list has been updated.",module,Magento_NegotiableQuote
 "has been deleted from the quote. You may want to review the offer amount.","has been deleted from the quote. You may want to review the offer amount.",module,Magento_NegotiableQuote
@@ -7372,8 +7372,8 @@ Pending,Pending,module,Magento_NegotiableQuote
 "Catalog prices have changed. You may want to re-submit this quote. Details about the changes are available in the History Log.","Catalog prices have changed. You may want to re-submit this quote. Details about the changes are available in the History Log.",module,Magento_NegotiableQuote
 "The discount for this quote has been removed because you have already used your discount on previous orders. Please re-submit the quote to the Seller for further negotiation.","The discount for this quote has been removed because you have already used your discount on previous orders. Please re-submit the quote to the Seller for further negotiation.",module,Magento_NegotiableQuote
 "The discount is no longer valid for this quote, and the prices have been updated. Please re-submit the quote to the Seller for further negotiation.","The discount is no longer valid for this quote, and the prices have been updated. Please re-submit the quote to the Seller for further negotiation.",module,Magento_NegotiableQuote
-"Quote taxes have been recalculated because you have added or changed the shipping address. The negotiated price is no longer valid. Please re-submit the quote to Seller.","Quote taxes have been recalculated because you have added or changed the shipping address. The negotiated price is no longer valid. Please re-submit the quote to Seller.",module,Magento_NegotiableQuote
-"You have added or changed the shipping address on this quote. Please re-submit the quote to Seller.","You have added or changed the shipping address on this quote. Please re-submit the quote to Seller.",module,Magento_NegotiableQuote
+"Quote taxes have been recalculated because you have added or changed the shipping address. The negotiated price is no longer valid. Please re-submit the quote to Seller.","Os impostos de cotação foram recalculados porque você adicionou ou mudou o endereço de envio. O preço negociado não é mais válido. Por favor, envie novamente a citação para o vendedor.",module,Magento_NegotiableQuote
+"You have added or changed the shipping address on this quote. Please re-submit the quote to Seller.","Você adicionou ou mudou o endereço de envio nesta cotação. Por favor, envie novamente a cotação para o vendedor.",module,Magento_NegotiableQuote
 "is no longer available in catalog. It was removed from your quote.","is no longer available in catalog. It was removed from your quote.",module,Magento_NegotiableQuote
 "are no longer available in catalog. They were removed from your quote.","are no longer available in catalog. They were removed from your quote.",module,Magento_NegotiableQuote
 "is no longer available. It was removed from your quote.","is no longer available. It was removed from your quote.",module,Magento_NegotiableQuote
@@ -7382,7 +7382,7 @@ Pending,Pending,module,Magento_NegotiableQuote
 "The quote %quoteId is currently locked and cannot be closed.","The quote %quoteId is currently locked and cannot be closed.",module,Magento_NegotiableQuote
 "You cannot update the requested attribute. Row ID: %fieldName = %fieldValue.","You cannot update the requested attribute. Row ID: %fieldName = %fieldValue.",module,Magento_NegotiableQuote
 "Invalid attribute %fieldName: Cannot create a B2B Quote for an individual user. The user must be a company member. Row ID: %fieldName = %fieldValue","Invalid attribute %fieldName: Cannot create a B2B Quote for an individual user. The user must be a company member. Row ID: %fieldName = %fieldValue",module,Magento_NegotiableQuote
-"Invalid attribute %fieldName: Quoting is not allowed for this company. Row ID: %fieldName = %fieldValue","Invalid attribute %fieldName: Quoting is not allowed for this company. Row ID: %fieldName = %fieldValue",module,Magento_NegotiableQuote
+"Invalid attribute %fieldName: Quoting is not allowed for this company. Row ID: %fieldName = %fieldValue","Atributo inválido %fieldName: Cotação não é permitida para esta empresa. Linha ID: %fieldName = %fieldValue",module,Magento_NegotiableQuote
 "The quote %quoteId is currently locked and cannot be declined.","The quote %quoteId is currently locked and cannot be declined.",module,Magento_NegotiableQuote
 "The quote %quoteId is currently locked and cannot be updated. Please check the quote status.","The quote %quoteId is currently locked and cannot be updated. Please check the quote status.",module,Magento_NegotiableQuote
 "The expiration date is in the wrong format. The correct format is %dateformat.","The expiration date is in the wrong format. The correct format is %dateformat.",module,Magento_NegotiableQuote
@@ -7439,8 +7439,8 @@ Status,Status,module,Magento_NegotiableQuote
 Created,Created,module,Magento_NegotiableQuote
 rate,rate,module,Magento_NegotiableQuote
 Expires,Expires,module,Magento_NegotiableQuote
-Company,Company,module,Magento_NegotiableQuote
-"Company Admin Email","Company Admin Email",module,Magento_NegotiableQuote
+Company,Empresa,module,Magento_NegotiableQuote
+"Company Admin Email","E-mail de Admin da Empresa",module,Magento_NegotiableQuote
 Seller,Seller,module,Magento_NegotiableQuote
 Store,Store,module,Magento_NegotiableQuote
 "Catalog Price","Catalog Price",module,Magento_NegotiableQuote
@@ -7518,7 +7518,7 @@ Expires:,Expires:,module,Magento_NegotiableQuote
 "No shipping information available","No shipping information available",module,Magento_NegotiableQuote
 "Select a shipping address from your address book.","Select a shipping address from your address book.",module,Magento_NegotiableQuote
 "Send for Review","Send for Review",module,Magento_NegotiableQuote
-"Proceed to Checkout","Proceed to Checkout",module,Magento_NegotiableQuote
+"Proceed to Checkout","Avançar para o Checkout",module,Magento_NegotiableQuote
 "Close quote","Close quote",module,Magento_NegotiableQuote
 Delete,Delete,module,Magento_NegotiableQuote
 "Remove item","Remove item",module,Magento_NegotiableQuote
@@ -7574,7 +7574,7 @@ Apply,Apply,module,Magento_NegotiableQuote
 Edit,Edit,module,Magento_NegotiableQuote
 "Ship Here","Ship Here",module,Magento_NegotiableQuote
 "Update Catalog Prices.","Atualize o Catálogo de Preços.",module,Magento_NegotiableQuote
-"If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.","If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.",module,Magento_NegotiableQuote
+"If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.","Se você continuar, os preços do catálogo e os descontos do carrinho nesta cotação serão atualizados como nas últimas alterações no catálogo e nas regras de preço.",module,Magento_NegotiableQuote
 "No ordered items","Não há items comprados",module,Magento_NegotiableQuote
 "Please enter a number greater than 0 in this field","Please enter a number greater than 0 in this field",module,Magento_NegotiableQuote
 "This is a required field.","Este é um campo obrigatório.",module,Magento_NegotiableQuote
@@ -7590,7 +7590,7 @@ Edit,Edit,module,Magento_NegotiableQuote
 Confirm,Confirm,module,Magento_NegotiableQuote
 OK,OK,module,Magento_NegotiableQuote
 "If you decline this quote, all custom pricing from this quote will be removed. The buyer will be able to place an order using their standard catalog prices and discounts.","If you decline this quote, all custom pricing from this quote will be removed. The buyer will be able to place an order using their standard catalog prices and discounts.",module,Magento_NegotiableQuote
-Proceed,Proceed,module,Magento_NegotiableQuote
+Proceed,Prosseguir,module,Magento_NegotiableQuote
 "Your file could not be uploaded. Please try again.","Your file could not be uploaded. Please try again.",module,Magento_NegotiableQuote
 "You cannot attach more than ten files per comment.","You cannot attach more than ten files per comment.",module,Magento_NegotiableQuote
 "Cannot Upload File","Cannot Upload File",module,Magento_NegotiableQuote
@@ -7845,7 +7845,7 @@ Instructions,Instruções,module,Magento_OfflinePayments
 "Zero Subtotal Checkout","Checkout com Subtotal Zero",module,Magento_OfflinePayments
 "Automatically Invoice All Items","Facturar Automaticamente Todos os Artigos",module,Magento_OfflinePayments
 Country,País,module,Magento_OfflineShipping
-Region/State,Região/estado,module,Magento_OfflineShipping
+Region/State,Região/Estado,module,Magento_OfflineShipping
 "Zip/Postal Code",CEP,module,Magento_OfflineShipping
 "Shipping Price","Preço do envio",module,Magento_OfflineShipping
 "Export CSV","Exportar CSV",module,Magento_OfflineShipping
@@ -11415,7 +11415,7 @@ Products,Products,module,Magento_SharedCatalog
 "All Stores","All Stores",module,Magento_SharedCatalog
 "Shared Catalogs","Shared Catalogs",module,Magento_SharedCatalog
 "The companies have been reassigned.","The companies have been reassigned.",module,Magento_SharedCatalog
-"Error while reassigning the company.","Error while reassigning the company.",module,Magento_SharedCatalog
+"Error while reassigning the company.","Erro ao reatribuir a empresa.",module,Magento_SharedCatalog
 "Discount value cannot be outside the range 0-100","Discount value cannot be outside the range 0-100",module,Magento_SharedCatalog
 "We found a duplicate website, tier price or quantity.","We found a duplicate website, tier price or quantity.",module,Magento_SharedCatalog
 "The selected items are being processed. You can continue to work in the meantime.","The selected items are being processed. You can continue to work in the meantime.",module,Magento_SharedCatalog
@@ -11454,7 +11454,7 @@ Public,Public,module,Magento_SharedCatalog
 "You cannot change the customer group for a shared catalog.","You cannot change the customer group for a shared catalog.",module,Magento_SharedCatalog
 Yes,Yes,module,Magento_SharedCatalog
 No,No,module,Magento_SharedCatalog
-"Please <a href=""%1"">create</a> at least a public shared catalog to proceed.","Please <a href=""%1"">create</a> at least a public shared catalog to proceed.",module,Magento_SharedCatalog
+"Please <a href=""%1"">create</a> at least a public shared catalog to proceed.","Por favor, <a href=""%1"">crie</a> pelo menos um catálogo compartilhado público para continuar.",module,Magento_SharedCatalog
 "A shared catalog is linked to this customer group. You must delete the shared catalog before you can delete this customer group.","A shared catalog is linked to this customer group. You must delete the shared catalog before you can delete this customer group.",module,Magento_SharedCatalog
 "Requested product doesn't exist: %1.","Requested product doesn't exist: %1.",module,Magento_SharedCatalog
 error,error,module,Magento_SharedCatalog
@@ -11492,7 +11492,7 @@ Store:,Store:,module,Magento_SharedCatalog
 "Step 2: Set Custom Prices","Step 2: Set Custom Prices",module,Magento_SharedCatalog
 "Step 1: Select Products for Catalog","Step 1: Select Products for Catalog",module,Magento_SharedCatalog
 Website:,Website:,module,Magento_SharedCatalog
-Proceed,Proceed,module,Magento_SharedCatalog
+Proceed,Prosseguir,module,Magento_SharedCatalog
 "Select All","Select All",module,Magento_SharedCatalog
 "Deselect All","Deselect All",module,Magento_SharedCatalog
 Assign,Assign,module,Magento_SharedCatalog
@@ -11500,7 +11500,7 @@ Unassign,Unassign,module,Magento_SharedCatalog
 Fixed,Fixed,module,Magento_SharedCatalog
 Discount,Discount,module,Magento_SharedCatalog
 Apply,Apply,module,Magento_SharedCatalog
-"Proceed to Store Configuration?","Proceed to Store Configuration?",module,Magento_SharedCatalog
+"Proceed to Store Configuration?","Prosseguir para a configuração da loja?",module,Magento_SharedCatalog
 "You've made changes into the shared catalog. If you leave this page now, the changes will be lost.","You've made changes into the shared catalog. If you leave this page now, the changes will be lost.",module,Magento_SharedCatalog
 "The maximum allowed catalog name length is %s characters.","O tamanho máximo permitido do nome de catalogo é %s caracteres.",module,Magento_SharedCatalog
 "Conflicting row.","Conflicting row.",module,Magento_SharedCatalog
@@ -11522,18 +11522,18 @@ included,included,module,Magento_SharedCatalog
 "Assign Catalog","Assign Catalog",module,Magento_SharedCatalog
 "Unassign Catalog","Unassign Catalog",module,Magento_SharedCatalog
 ID,ID,module,Magento_SharedCatalog
-Company,Company,module,Magento_SharedCatalog
+Company,Empresa,module,Magento_SharedCatalog
 Country,País,module,Magento_SharedCatalog
-State/Province,State/Province,module,Magento_SharedCatalog
+State/Province,Estado,module,Magento_SharedCatalog
 Assigned,Assigned,module,Magento_SharedCatalog
 Catalog,Catalog,module,Magento_SharedCatalog
 Action,Action,module,Magento_SharedCatalog
 "Shared Catalog Information","Shared Catalog Information",module,Magento_SharedCatalog
 "Catalog Details","Catalog Details",module,Magento_SharedCatalog
 "Public Catalog Already Exists","Public Catalog Already Exists",module,Magento_SharedCatalog
-"A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be assigned to the new public shared catalog.","A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be assigned to the new public shared catalog.",module,Magento_SharedCatalog
+"A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be assigned to the new public shared catalog.","Um catálogo compartilhado público já existe. Se você continuar, o catálogo público compartilhado existente será convertido em um catálogo personalizado. Todas as empresas definidas no catálogo público compartilhado existente serão atribuídas ao novo catálogo público compartilhado.",module,Magento_SharedCatalog
 "Change Catalog Type?","Change Catalog Type?",module,Magento_SharedCatalog
-"A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be re-assigned to the new public shared catalog.","A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be re-assigned to the new public shared catalog.",module,Magento_SharedCatalog
+"A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be re-assigned to the new public shared catalog.","Um catálogo compartilhado público já existe. Se você continuar, o catálogo público compartilhado existente será convertido em um catálogo personalizado. Todas as empresas definidas no catálogo público compartilhado existente serão re-atribuídas ao novo catálogo público compartilhado.",module,Magento_SharedCatalog
 "Add Shared Catalog","Add Shared Catalog",module,Magento_SharedCatalog
 "This action cannot be undone. Are you sure you want to delete this catalog(s)?","This action cannot be undone. Are you sure you want to delete this catalog(s)?",module,Magento_SharedCatalog
 "Delete items","Delete items",module,Magento_SharedCatalog
