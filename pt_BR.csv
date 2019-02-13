@@ -108,7 +108,7 @@ Configure,Configurar,module,Magento_AdvancedCheckout
 "We can't find this store.","Não encontramos esta loja.",module,Magento_AdvancedCheckout
 Customers,Clientes,module,Magento_AdvancedCheckout
 "Shopping Cart","Carrinho de Compras",module,Magento_AdvancedCheckout
-"Sorry, something went wrong. You can find out more in the error log.","Desculpe, algo deu errado. Mais informação disponível no log de erros.",module,Magento_AdvancedCheckout
+"Sorry, something went wrong. You can find out more in the error log.","Desculpe, algo deu errado. Você encontrará mais detalhes no log de erros.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Você não tem acesso.",module,Magento_AdvancedCheckout
 "Ordered item id is not received.","Id do item solicitado não foi recebido.",module,Magento_AdvancedCheckout
 "Ordered item is not loaded.","Item solicitado não está carregado.",module,Magento_AdvancedCheckout
@@ -2634,7 +2634,7 @@ Edit,Editar,module,Magento_Checkout
 "Excl. Tax","Excl. Impostos",module,Magento_Checkout
 Loading...,Carregando...,module,Magento_Checkout
 "Order #","Pedido #",module,Magento_Checkout
-"Proceed to Checkout","Avançar para Checkout",module,Magento_Checkout
+"Proceed to Checkout","Avançar para o Checkout",module,Magento_Checkout
 "Product Name","Nome do produto",module,Magento_Checkout
 "Incl. Tax","Imposto Incl.",module,Magento_Checkout
 "Your order number is: %1.","O número do seu pedido é: %1.",module,Magento_Checkout
@@ -3696,7 +3696,7 @@ Address,Endereço,module,Magento_Customer
 "Street Address %1",Rua,module,Magento_Customer
 "VAT Number",CPF/CNPJ,module,Magento_Customer
 City,Cidade,module,Magento_Customer
-State/Province,Estado/Província,module,Magento_Customer
+State/Province,Estado,module,Magento_Customer
 "Please select a region, state or province.","Por favor, selecione uma região, estado ou província.",module,Magento_Customer
 "Zip/Postal Code",CEP,module,Magento_Customer
 Country,País,module,Magento_Customer
@@ -3750,7 +3750,7 @@ Password:,Senha:,module,Magento_Customer
 "Password you set when creating account","Senha que você definiu ao criar a conta",module,Magento_Customer
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Esqueceu sua senha? Clique <a href=""%reset_url""> aqui</a> para redefinir.",module,Magento_Customer
 "When you sign in to your account, you will be able to:","Quando você entrar em sua conta, você vai poder:",module,Magento_Customer
-"Proceed through checkout faster","Finalizar a compra de forma mais rápida",module,Magento_Customer
+"Proceed through checkout faster","Continuar com checkout rápido",module,Magento_Customer
 "Check the status of orders","Verificar o status dos seus pedidos",module,Magento_Customer
 "View past orders","Ver os pedidos que você já realizou",module,Magento_Customer
 "Store alternative addresses (for shipping to multiple family members and friends)","Cadastre endereços alternativos (para entregas para vários parentes ou amigos)",module,Magento_Customer
@@ -4072,7 +4072,7 @@ Address,Endereço,module,Magento_CustomerCustomAttributes
 "Street Address %1",Rua,module,Magento_CustomerCustomAttributes
 "VAT Number","Número VAT",module,Magento_CustomerCustomAttributes
 City,Cidade,module,Magento_CustomerCustomAttributes
-State/Province,Estado/Província,module,Magento_CustomerCustomAttributes
+State/Province,Estado,module,Magento_CustomerCustomAttributes
 "Please select a region, state or province.","Por favor, selecione uma região, estado ou província.",module,Magento_CustomerCustomAttributes
 "Zip/Postal Code",CEP,module,Magento_CustomerCustomAttributes
 Country,País,module,Magento_CustomerCustomAttributes
@@ -4278,7 +4278,7 @@ Group,Grupo,module,Magento_CustomerSegment
 Phone,Telefone,module,Magento_CustomerSegment
 ZIP,CEP,module,Magento_CustomerSegment
 Country,País,module,Magento_CustomerSegment
-State/Province,Estado/Província,module,Magento_CustomerSegment
+State/Province,Estado,module,Magento_CustomerSegment
 "Customer Since","Cliente desde",module,Magento_CustomerSegment
 "View Combined Report","Exibir Relatório Combinado",module,Magento_CustomerSegment
 Set,Definir,module,Magento_CustomerSegment
@@ -4832,7 +4832,7 @@ Unknown,Desconhecido,module,Magento_Email
 "Store Phone Number","Número de telefone da loja",module,Magento_Email
 "Store Hours","Armazenar horas",module,Magento_Email
 Country,País,module,Magento_Email
-Region/State,Região/estado,module,Magento_Email
+Region/State,Região/Estado,module,Magento_Email
 "Zip/Postal Code",CEP,module,Magento_Email
 City,Cidade,module,Magento_Email
 "Street Address 1","Endereço da rua 1",module,Magento_Email
@@ -5352,7 +5352,7 @@ None,Nenhum,module,Magento_GiftRegistry
 "New Address","Novo Endereço",module,Magento_GiftRegistry
 "Edit Gift Registry","Editar a lista de presentes",module,Magento_GiftRegistry
 "Create Gift Registry","Criar lista de presentes",module,Magento_GiftRegistry
-State/Province,Estado/Província,module,Magento_GiftRegistry
+State/Province,Estado,module,Magento_GiftRegistry
 "Please select a region, state or province","Por favor, selecione uma região, estado ou província",module,Magento_GiftRegistry
 "Please Select","Por Favor Selecione",module,Magento_GiftRegistry
 "View Gift Registry %1","Ver lista de presente %1",module,Magento_GiftRegistry
@@ -6835,7 +6835,7 @@ Instructions,Instruções,module,Magento_OfflinePayments
 "Zero Subtotal Checkout","Checkout com Subtotal Zero",module,Magento_OfflinePayments
 "Automatically Invoice All Items","Facturar Automaticamente Todos os Artigos",module,Magento_OfflinePayments
 Country,País,module,Magento_OfflineShipping
-Region/State,Região/estado,module,Magento_OfflineShipping
+Region/State,Região/Estado,module,Magento_OfflineShipping
 "Zip/Postal Code",CEP,module,Magento_OfflineShipping
 "Shipping Price","Preço do envio",module,Magento_OfflineShipping
 "Export CSV","Exportar CSV",module,Magento_OfflineShipping
