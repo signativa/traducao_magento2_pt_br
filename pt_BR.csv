@@ -788,7 +788,7 @@ Region/State,Região/estado,module,Magento_Backend
 City,Cidade,module,Magento_Backend
 "Street Address",Endereço,module,Magento_Backend
 "Street Address Line 2","Endereço 2",module,Magento_Backend
-"VAT Number","Número VAT",module,Magento_Backend
+"VAT Number",CPF/CNPJ,module,Magento_Backend
 "Single-Store Mode","Modo de Loja Única",module,Magento_Backend
 "Enable Single-Store Mode","Habilitar Modo Loja Única",module,Magento_Backend
 "This setting will not be taken into account if system has more than one store view.","Esta configuração não será levada em conta se o sistema tem mais de uma visão de loja.",module,Magento_Backend
@@ -6616,7 +6616,7 @@ Subtotal,Subtotal,module,Magento_Multishipping
 Items,Itens,module,Magento_Multishipping
 "Grand Total:","Total geral:",module,Magento_Multishipping
 "Submitting order information...","Enviado informações do pedido...",module,Magento_Multishipping
-"Sorry, no quotes are available for this order right now.","Desculpa, sem aspas estão disponíveis para este fim.",module,Magento_Multishipping
+"Sorry, no quotes are available for this order right now.","Desculpe, nenhuma cotação está disponível para este pedido.",module,Magento_Multishipping
 "Continue to Billing Information","Continuar em Informações de Cobrança",module,Magento_Multishipping
 "Back to Select Addresses","Volta para seleção de endereços",module,Magento_Multishipping
 "Thank you for your purchase!","Obrigado por sua compra!",module,Magento_Multishipping
@@ -12356,7 +12356,7 @@ Message,Mensagem,module,Magento_Webapi
 "200 OK","200 OK",module,Magento_WebsiteRestriction
 "Website Closed","Website fechado",module,Magento_WebsiteRestriction
 "Private Sales: Login Only","Vendas Privadas: Somente com Login",module,Magento_WebsiteRestriction
-"Private Sales: Login and Register","Vendas Privadas: pode-se Fazer Login ou Cadastrar-se",module,Magento_WebsiteRestriction
+"Private Sales: Login and Register","Vendas Privadas: Entrar e Registrar",module,Magento_WebsiteRestriction
 "To login form (302 Found)","Para o formulário de login (302 Found)",module,Magento_WebsiteRestriction
 "To landing page (302 Found)","Para a página de destino (302 Encontrado)",module,Magento_WebsiteRestriction
 "Can not register new customer due to restrictions are enabled.","Não é possível registrar novo cliente devido à restrições habilitadas.",module,Magento_WebsiteRestriction
