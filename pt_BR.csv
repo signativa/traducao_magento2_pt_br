@@ -804,7 +804,7 @@ Region/State,Região/estado,module,Magento_Backend
 City,Cidade,module,Magento_Backend
 "Street Address",Endereço,module,Magento_Backend
 "Street Address Line 2","Endereço 2",module,Magento_Backend
-"VAT Number","Número VAT",module,Magento_Backend
+"VAT Number",CPF/CNPJ,module,Magento_Backend
 "Single-Store Mode","Modo de Loja Única",module,Magento_Backend
 "Enable Single-Store Mode","Habilitar Modo Loja Única",module,Magento_Backend
 "This setting will not be taken into account if system has more than one store view.","Esta configuração não será levada em conta se o sistema tem mais de uma visão de loja.",module,Magento_Backend
@@ -3403,7 +3403,7 @@ Sales,Vendas,module,Magento_Company
 "The reason will appear in the 'Rejected' email sent to the Company Admin. It will also be saved and displayed in Admin Panel (in the company profile).","O motivo aparecerá no e-mail ""Rejeitado"" enviado para o administrador da empresa. Ele também será salvo e exibido no Painel do administrador (no perfil da empresa).",module,Magento_Company
 "Are you sure you want to block this company? If you proceed, the company members will not be able to place orders.","Tem certeza de que deseja bloquear esta empresa? Se você continuar, os membros da empresa não poderão fazer pedidos.",module,Magento_Company
 "Reason for Rejection","Razão para rejeição",module,Magento_Company
-"VAT / TAX ID","IVA / FISCAL ID",module,Magento_Company
+"VAT / TAX ID",CPF/CNPJ,module,Magento_Company
 "Reseller ID","Revendedor ID",module,Magento_Company
 Comment,Comente,module,Magento_Company
 "Company Admin","Administrador de empresa",module,Magento_Company
@@ -7197,7 +7197,7 @@ Subtotal,Subtotal,module,Magento_Multishipping
 Items,Itens,module,Magento_Multishipping
 "Grand Total:","Total geral:",module,Magento_Multishipping
 "Submitting order information...","Enviado informações do pedido...",module,Magento_Multishipping
-"Sorry, no quotes are available for this order right now.","Desculpa, sem aspas estão disponíveis para este fim.",module,Magento_Multishipping
+"Sorry, no quotes are available for this order right now.","Desculpe, nenhuma cotação está disponível para este pedido.",module,Magento_Multishipping
 "Continue to Billing Information","Continuar em Informações de Cobrança",module,Magento_Multishipping
 "Back to Select Addresses","Volta para seleção de endereços",module,Magento_Multishipping
 "Thank you for your purchase!","Obrigado por sua compra!",module,Magento_Multishipping
@@ -7530,7 +7530,7 @@ Update,Update,module,Magento_NegotiableQuote
 "Contact Us","Fale Conosco",module,Magento_NegotiableQuote
 "Your quote number is: %1.","Your quote number is: %1.",module,Magento_NegotiableQuote
 "The quote has been sent to the merchant.","The quote has been sent to the merchant.",module,Magento_NegotiableQuote
-"Continue Shopping","Continue Shopping",module,Magento_NegotiableQuote
+"Continue Shopping","Continuar Comprando",module,Magento_NegotiableQuote
 "Please specify the reason","Please specify the reason",module,Magento_NegotiableQuote
 "Dear %merchant_name,","Dear %merchant_name,",module,Magento_NegotiableQuote
 "New quote","New quote",module,Magento_NegotiableQuote
@@ -13675,7 +13675,7 @@ Message,Mensagem,module,Magento_Webapi
 "200 OK","200 OK",module,Magento_WebsiteRestriction
 "Website Closed","Website fechado",module,Magento_WebsiteRestriction
 "Private Sales: Login Only","Vendas Privadas: Somente com Login",module,Magento_WebsiteRestriction
-"Private Sales: Login and Register","Vendas Privadas: pode-se Fazer Login ou Cadastrar-se",module,Magento_WebsiteRestriction
+"Private Sales: Login and Register","Vendas Privadas: Entrar e Registrar",module,Magento_WebsiteRestriction
 "To login form (302 Found)","Para o formulário de login (302 Found)",module,Magento_WebsiteRestriction
 "To landing page (302 Found)","Para a página de destino (302 Encontrado)",module,Magento_WebsiteRestriction
 "Access Restriction","Restrição de acesso",module,Magento_WebsiteRestriction
